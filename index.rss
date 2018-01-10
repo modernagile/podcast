@@ -25,7 +25,18 @@
 
     <itunes:image href="http://www.modernagile.org/podcast/cover_1400.jpg"/>
 
-    <generator>Dropcaster 0.0.6</generator>
+    <item>
+      <title>Interview with David Hussman</title>
+      <itunes:author>Joshua Kerievsky</itunes:author>
+      <author>Joshua Kerievsky</author>
+
+      <itunes:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
+      <enclosure url="http://www.modernagile.org/podcast/ModernAgileShow_20_Interview_with_David_Hussman.mp3" length="21643524" type="audio/mp3"/>
+      <guid isPermaLink="false">28b4a8e9aeb8497d8db2c1fa471f38f4</guid>
+      <pubDate>Wed, 10 Jan 2018 09:10:29 -0200</pubDate>
+      <itunes:duration>00:29:41</itunes:duration>
+      <description>Episode 20 of the Modern Agile Show features an interview with David Hussman, veteran agile leader, product geek and founder/CEO of DevJam. We discuss his talk, "Learning in Product: How Wrong are You Ready to Be?" We reminisce about Extreme Programming and the nature of the early community that formed around it. We discuss how to handle known vs. unknown software work, how we change the way we work when moving from complicated to complex efforts, as well as what David’s been up to in the Chaos community.</description>
+    </item>
 
     <item>
       <title>Interview with Brian Beckman of Amazon</title>
