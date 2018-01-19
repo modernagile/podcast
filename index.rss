@@ -26,6 +26,19 @@
     <itunes:image href="http://www.modernagile.org/podcast/cover_1400.jpg"/>
 
     <item>
+      <title>Interview with John P. Cutler</title>
+      <itunes:author>Joshua Kerievsky</itunes:author>
+      <author>Joshua Kerievsky</author>
+
+      <itunes:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
+      <enclosure url="http://www.modernagile.org/podcast/ModernAgileShow_21_Interview_with_John_Cutler.mp3" length="25305333" type="audio/mp3"/>
+      <guid isPermaLink="false">cccbbe743bcc402b98928b9568a3485f</guid>
+      <pubDate>Fri, 19 Jan 2018 09:10:29 -0200</pubDate>
+      <itunes:duration>00:27:43</itunes:duration>
+      <description>Episode 21 of the Modern Agile Show features an interview with John P. Cutler, expert product manager, systems thinker, prolific writer and thought leader. John recalls when he first came across Modern Agile and what inspires him about it. We discuss the question, “Is Modern Agile most applicable for individuals or teams/organizations?” We look into how John experiments and learns rapidly in order to deliver value continuously. We discuss which Modern Agile principle we’d start with and John answers the question, “What is your biggest frustration when working with a new organization?"</description>
+    </item>
+
+    <item>
       <title>Interview with David Hussman</title>
       <itunes:author>Joshua Kerievsky</itunes:author>
       <author>Joshua Kerievsky</author>
