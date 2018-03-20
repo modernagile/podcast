@@ -26,6 +26,19 @@
     <itunes:image href="http://www.modernagile.org/podcast/cover_1400.jpg"/>
 
     <item>
+      <title>Interview with Colleen Johnson, Founder and CEO, ScatterSpoke</title>
+      <itunes:author>Joshua Kerievsky</itunes:author>
+      <author>Joshua Kerievsky</author>
+
+      <itunes:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
+      <enclosure url="http://www.modernagile.org/podcast/ModernAgileShow_23_Interview_with_Colleen_Johnson.mp3" length="10404291" type="audio/mp3"/>
+      <guid isPermaLink="false">b3559263b78c4e6cbb7d75e45aa07d94</guid>
+      <pubDate>Tue, 20 Mar 2018 09:10:29 -0200</pubDate>
+      <itunes:duration>00:19:08</itunes:duration>
+      <description>Episode 23 of the Modern Agile Show features an interview with Colleen Johnson, Founder and CEO of ScatterSpoke, a tool for more effective team retrospectives. Colleen recounts how difficult it can be to put the agile practices to work when you’re building your own product. She mentions the ease of falling into “MVP bloat”, adding too many features to your early product and not delivering early enough. Colleen describes how ScatterSpoke supports the practice of Continuous Retrospectives by letting people continuously submit (via tools like Slack) messages that get saved in ScatterSpoke.  Colleen mentions her work with responsive roadmapping, a pull-based and capacity-oriented approach to roadmapping that constantly considers changing customer needs instead of nailing down a concrete plan that isn’t supposed to change.</description>
+    </item>
+
+    <item>
       <title>Interview with Woody Zuill</title>
       <itunes:author>Joshua Kerievsky</itunes:author>
       <author>Joshua Kerievsky</author>
