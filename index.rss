@@ -26,6 +26,32 @@
     <itunes:image href="http://www.modernagile.org/podcast/cover_1400.jpg"/>
 
     <item>
+      <title>Interview with Vasco Duarte, #NoEstimates</title>
+      <itunes:author>Joshua Kerievsky</itunes:author>
+      <author>Joshua Kerievsky</author>
+
+      <itunes:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
+      <enclosure url="http://www.modernagile.org/podcast/ModernAgileShow_25_Interview_with_Vasco_Duarte.mp3" length="13356118" type="audio/mp3"/>
+      <guid isPermaLink="false">e8ec75ca83c44bf5a2935313a4ff464a</guid>
+      <pubDate>Fir, 23 Mar 2018 09:10:29 -0200</pubDate>
+      <itunes:duration>00:19:08</itunes:duration>
+      <description>Episode 25 of the Modern Agile Show features an interview with Vasco Duarte, an agile/lean expert, leader of the #NoEstimates movement, author of the #NoEstimates book and host of the popular ScrumMaster podcast. Vasco talks about how to conduct high-speed experiments (e.g. within 24 hours) so we invest in knowledge acquisition, not estimates. Vasco explains how he helped a car company test voice activation in cars without spending tons of time and money. Instead of estimating when voice activation would be available, he helped the company quickly gain knowledge about the value of the feature. Vasco describes how he uses throughput, rather than estimates, to help companies realize what is possible and avoid wasting millions of euros. Vasco says that the lost art of agile is “slicing work down” based on testing your core hypothesis. He mentions the need to get to incremental funding, rather than big upfront funding approaches. We discuss how critical it is to make sure you have a team that can actually work together and get work done, before anything else. Finally, Vasco mentions how he uses impact mapping and story mapping to help manage work and describes a backlog as a “mental disease that prevents us from forgetting bad ideas.”</description>
+    </item>
+
+    <item>
+      <title>Interview with Karl Scotland</title>
+      <itunes:author>Joshua Kerievsky</itunes:author>
+      <author>Joshua Kerievsky</author>
+
+      <itunes:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
+      <enclosure url="http://www.modernagile.org/podcast/ModernAgileShow_24_Interview_with_Karl_Scotland.mp3" length="11576451" type="audio/mp3"/>
+      <guid isPermaLink="false">620ed75104b94ad18879a52741035cba</guid>
+      <pubDate>Fir, 23 Mar 2018 09:10:29 -0200</pubDate>
+      <itunes:duration>00:19:08</itunes:duration>
+      <description>Episode 24 of the Modern Agile Show features an interview with Karl Scotland, veteran agile/lean leader, focused on helping to build learning organizations. Karl discusses how to work with agile strategically. He recognized that four statements I’d written in the first Modern Agile blog were actually strategies and he observed that they might be a better guide than even the four values of the Manifesto for Agile Software Development. He observes that strategies are generative and enable constraints rather than govern us. He explains what the phrase, “Don’t be a tabby cat trying to be a cheetah” means.  He mentions the importance of Richard Rumelt’s book, Good Strategy Bad Strategy. Finally, Karl discusses his work on what he calls the X Matrix.</description>
+    </item>
+
+    <item>
       <title>Interview with Colleen Johnson, Founder and CEO, ScatterSpoke</title>
       <itunes:author>Joshua Kerievsky</itunes:author>
       <author>Joshua Kerievsky</author>
