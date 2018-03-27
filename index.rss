@@ -31,6 +31,20 @@
       <author>Joshua Kerievsky</author>
 
       <itunes:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
+      <enclosure url="http://www.modernagile.org/podcast/ModernAgileShow_26_Interview_with_Mary_and_Tom_Poppendieck.mp3" length="13819746" type="audio/mp3"/>
+      <guid isPermaLink="false">b3639980fef646439db46d047aee7532</guid>
+      <pubDate>Tue, 27 Mar 2018 09:10:29 -0200</pubDate>
+      <itunes:duration>00:19:08</itunes:duration>
+      <description>Episode 26 of the Modern Agile Show features an interview with Mary and Tom Poppendieck, co-authors of numerous excellent books, including Lean Software Development, Leading Lean Software Development and The Lean Mindset. Mary gave a wonderful keynote at the Scandinavian Agile conference (2018) called Proxies and Permissions. In that talk, Mary pointed out that she and Tom believe that “people ought to be able to figure things out for themselves” rather than being fed recipes. In Mary’s talk she highlighted Bret Victor's (@worrydream) Designer’s Principle (from his talk, Inventing on Principle: https://www.youtube.com/watch?v=EGqwX...) that “creators need an immediate connection with what they create.” Mary describes how important it is for people on agile teams to be "autonomous and asynchronous”, to get feedback rapidly from what they build instead of waiting a long time to see the impact of what you do. This is especially true if you are running experiments. Mary and Tom discuss a variety of “proxies” that stand in the way of fast feedback and autonomy. Mary explains how “speed and safety” go hand in hand. Mary believes that many agile scaling approaches are “a crutch” for organizations that have tight dependencies between people and architecture issues that require lots of people to talk, rather than being able to work autonomously, as they do at Amazon. Mary and Tom discuss how they see the four Modern Agile principles and how they relate to their Lean work. Finally, Mary describes how teams need a “concept of leadership”, someone who works as part of the team and helps teach the team how to work well, solve problems and learn.
+      </description>
+    </item>
+
+    <item>
+      <title>Interview with Vasco Duarte, #NoEstimates</title>
+      <itunes:author>Joshua Kerievsky</itunes:author>
+      <author>Joshua Kerievsky</author>
+
+      <itunes:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
       <enclosure url="http://www.modernagile.org/podcast/ModernAgileShow_25_Interview_with_Vasco_Duarte.mp3" length="13356118" type="audio/mp3"/>
       <guid isPermaLink="false">e8ec75ca83c44bf5a2935313a4ff464a</guid>
       <pubDate>Fir, 23 Mar 2018 09:10:29 -0200</pubDate>
