@@ -27,12 +27,26 @@
     <itunes:image href="http://www.modernagile.org/podcast/cover_1400.jpg"/>
 
     <item>
+      <title>Interview with Sam McAfee</title>
+      <itunes:author>Joshua Kerievsky</itunes:author>
+      <author>Joshua Kerievsky</author>
+
+      <itunes:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
+      <enclosure url="http://www.modernagile.org/podcast/ModernAgileShow_27_Interview_with_Sam_McAfee.mp3" length="24442354" type="audio/mp3"/>
+      <guid isPermaLink="false">1dd2b959f5224bcabb8cbdc70c0898e9</guid>
+      <pubDate>Sun, 1 Apr 2018 09:10:29 -0200</pubDate>
+      <itunes:duration>00:19:08</itunes:duration>
+      <description>Episode 27 of the Modern Agile Show features an interview with Sam McAfee, a product management coach and author of the book, Startup Patterns. Sam explains some of the main reasons why enterprise agile teams fail, based on a popular Medium.com post that he wrote. He explains that organizations that have achieved success in a product area have operationalized work to contain risk and drive out variability. Unfortunately, that work tends to not fit so well with innovation work. Rigid, top-down, command-and-control style management rarely fits well a strong, self-directed team-based model. Financial incentives and annual reviews also tend to get in the way, as they tend to be focused on individuals rather than teams. Sam describes the importance of building a flexible, adaptable learning culture in order for enterprise agile to thrive. You need supportive leaders at the top and it can help to develop an innovative space or area that is separate from the main business. Innovation work needs some structure, clear goals and a e safe-to-fail culture. Sam sees a need to outfit innovation spaces with mini-versions of core business functions like HR, legal, etc.
+      </description>
+    </item>
+
+    <item>
       <title>Interview with Mary and Tom Poppendieck</title>
       <itunes:author>Joshua Kerievsky</itunes:author>
       <author>Joshua Kerievsky</author>
 
       <itunes:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
-      <enclosure url="http://www.modernagile.org/podcast/ModernAgileShow_26_Interview_with_Mary_and_Tom_Poppendieck.mp3" length="13819746" type="audio/mp3"/>
+      <enclosure url="http://www.modernagile.org/podcast/ModernAgileShow_26_Interview_with_Mary_and_Tom_Poppendieck.mp3" length="13820068" type="audio/mp3"/>
       <guid isPermaLink="false">b3639980fef646439db46d047aee7532</guid>
       <pubDate>Tue, 27 Mar 2018 09:10:29 -0200</pubDate>
       <itunes:duration>00:19:08</itunes:duration>
@@ -46,7 +60,7 @@
       <author>Joshua Kerievsky</author>
 
       <itunes:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
-      <enclosure url="http://www.modernagile.org/podcast/ModernAgileShow_25_Interview_with_Vasco_Duarte.mp3" length="13356118" type="audio/mp3"/>
+      <enclosure url="http://www.modernagile.org/podcast/ModernAgileShow_25_Interview_with_Vasco_Duarte.mp3" length="13356440" type="audio/mp3"/>
       <guid isPermaLink="false">e8ec75ca83c44bf5a2935313a4ff464a</guid>
       <pubDate>Fir, 23 Mar 2018 09:10:29 -0200</pubDate>
       <itunes:duration>00:19:08</itunes:duration>
@@ -59,7 +73,7 @@
       <author>Joshua Kerievsky</author>
 
       <itunes:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
-      <enclosure url="http://www.modernagile.org/podcast/ModernAgileShow_24_Interview_with_Karl_Scotland.mp3" length="11576451" type="audio/mp3"/>
+      <enclosure url="http://www.modernagile.org/podcast/ModernAgileShow_24_Interview_with_Karl_Scotland.mp3" length="11576773" type="audio/mp3"/>
       <guid isPermaLink="false">620ed75104b94ad18879a52741035cba</guid>
       <pubDate>Fir, 23 Mar 2018 09:10:29 -0200</pubDate>
       <itunes:duration>00:19:08</itunes:duration>
@@ -72,7 +86,7 @@
       <author>Joshua Kerievsky</author>
 
       <itunes:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
-      <enclosure url="http://www.modernagile.org/podcast/ModernAgileShow_23_Interview_with_Colleen_Johnson.mp3" length="10404291" type="audio/mp3"/>
+      <enclosure url="http://www.modernagile.org/podcast/ModernAgileShow_23_Interview_with_Colleen_Johnson.mp3" length="10404613" type="audio/mp3"/>
       <guid isPermaLink="false">b3559263b78c4e6cbb7d75e45aa07d94</guid>
       <pubDate>Tue, 20 Mar 2018 09:10:29 -0200</pubDate>
       <itunes:duration>00:19:08</itunes:duration>
@@ -85,7 +99,7 @@
       <author>Joshua Kerievsky</author>
 
       <itunes:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
-      <enclosure url="http://www.modernagile.org/podcast/ModernAgileShow_22_Interview_with_Woody_Zuill.mp3" length="16128492" type="audio/mp3"/>
+      <enclosure url="http://www.modernagile.org/podcast/ModernAgileShow_22_Interview_with_Woody_Zuill.mp3" length="16128814" type="audio/mp3"/>
       <guid isPermaLink="false">5c155d5433a645bca34ac1450209d8c6</guid>
       <pubDate>Sun, 11 Mar 2018 09:10:29 -0200</pubDate>
       <itunes:duration>00:28:48</itunes:duration>
@@ -98,7 +112,7 @@
       <author>Joshua Kerievsky</author>
 
       <itunes:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
-      <enclosure url="http://www.modernagile.org/podcast/ModernAgileShow_21_Interview_with_John_Cutler.mp3" length="25305333" type="audio/mp3"/>
+      <enclosure url="http://www.modernagile.org/podcast/ModernAgileShow_21_Interview_with_John_Cutler.mp3" length="25305655" type="audio/mp3"/>
       <guid isPermaLink="false">cccbbe743bcc402b98928b9568a3485f</guid>
       <pubDate>Fri, 19 Jan 2018 09:10:29 -0200</pubDate>
       <itunes:duration>00:27:43</itunes:duration>
@@ -111,7 +125,7 @@
       <author>Joshua Kerievsky</author>
 
       <itunes:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
-      <enclosure url="http://www.modernagile.org/podcast/ModernAgileShow_20_Interview_with_David_Hussman.mp3" length="21643524" type="audio/mp3"/>
+      <enclosure url="http://www.modernagile.org/podcast/ModernAgileShow_20_Interview_with_David_Hussman.mp3" length="21643846" type="audio/mp3"/>
       <guid isPermaLink="false">28b4a8e9aeb8497d8db2c1fa471f38f4</guid>
       <pubDate>Wed, 10 Jan 2018 09:10:29 -0200</pubDate>
       <itunes:duration>00:29:41</itunes:duration>
@@ -124,7 +138,7 @@
       <author>Joshua Kerievsky</author>
 
       <itunes:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
-      <enclosure url="http://www.modernagile.org/podcast/ModernAgileShow_19_Interview_with_Brian_Beckman_of_Amazon.mp3" length="29054361" type="audio/mp3"/>
+      <enclosure url="http://www.modernagile.org/podcast/ModernAgileShow_19_Interview_with_Brian_Beckman_of_Amazon.mp3" length="29054683" type="audio/mp3"/>
       <guid isPermaLink="false">79b6c70f118c4ca6a8298278babb9d81</guid>
       <pubDate>Thu, 21 Dec 2017 09:10:29 -0200</pubDate>
       <itunes:duration>00:20:11</itunes:duration>
@@ -137,7 +151,7 @@
       <author>Joshua Kerievsky</author>
 
       <itunes:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
-      <enclosure url="http://www.modernagile.org/podcast/ModernAgileShow_18_Interview_with_Jennifer_Marsman_Machine_Learning_and_Artificial_Intelligence.mp3" length="31792830" type="audio/mp3"/>
+      <enclosure url="http://www.modernagile.org/podcast/ModernAgileShow_18_Interview_with_Jennifer_Marsman_Machine_Learning_and_Artificial_Intelligence.mp3" length="31793152" type="audio/mp3"/>
       <guid isPermaLink="false">96eb72119f2c43588fa3a3c2e912e66f</guid>
       <pubDate>Thu, 21 Dec 2017 09:10:29 -0200</pubDate>
       <itunes:duration>00:22:05</itunes:duration>
@@ -150,7 +164,7 @@
       <author>Joshua Kerievsky</author>
 
       <itunes:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
-      <enclosure url="http://www.modernagile.org/podcast/ModernAgileShow_17_Interview_with_Dave_Farley_CoAuthor_of_Continuous_Delivery.mp3" length="39456000" type="audio/mp3"/>
+      <enclosure url="http://www.modernagile.org/podcast/ModernAgileShow_17_Interview_with_Dave_Farley_CoAuthor_of_Continuous_Delivery.mp3" length="39456322" type="audio/mp3"/>
       <guid isPermaLink="false">32b1dab0b6094e0c96ee4d29dac068e5</guid>
       <pubDate>Fri, 15 Dec 2017 09:10:29 -0200</pubDate>
       <itunes:duration>00:27:24</itunes:duration>
@@ -163,7 +177,7 @@
       <author>Joshua Kerievsky</author>
 
       <itunes:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
-      <enclosure url="http://www.modernagile.org/podcast/ModernAgileShow_16_Interview_with_Lynn_Langit.mp3" length="27979161" type="audio/mp3"/>
+      <enclosure url="http://www.modernagile.org/podcast/ModernAgileShow_16_Interview_with_Lynn_Langit.mp3" length="27979483" type="audio/mp3"/>
       <guid isPermaLink="false">8ae9ed8dbb644a8e8edc0c5898f82e7f</guid>
       <pubDate>Thu, 14 Dec 2017 09:10:29 -0200</pubDate>
       <itunes:duration>00:19:26</itunes:duration>
@@ -176,7 +190,7 @@
       <author>Joshua Kerievsky</author>
 
       <itunes:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
-      <enclosure url="http://www.modernagile.org/podcast/ModernAgileShow_15_Interview_with_Jeff_Patton_at_YOW2017.mp3" length="33162064" type="audio/mp3"/>
+      <enclosure url="http://www.modernagile.org/podcast/ModernAgileShow_15_Interview_with_Jeff_Patton_at_YOW2017.mp3" length="33162386" type="audio/mp3"/>
       <guid isPermaLink="false">0416b4914c3f4f5eb0096a29b5bbee79</guid>
       <pubDate>Tue, 12 Dec 2017 09:10:29 -0200</pubDate>
       <itunes:duration>00:23:02</itunes:duration>
@@ -189,7 +203,7 @@
       <author>Joshua Kerievsky</author>
 
       <itunes:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
-      <enclosure url="http://www.modernagile.org/podcast/ModernAgileShow_14_Interview_with_David_J_Bland_Founder_CEO_Precoil.mp3" length="30028624" type="audio/mp3"/>
+      <enclosure url="http://www.modernagile.org/podcast/ModernAgileShow_14_Interview_with_David_J_Bland_Founder_CEO_Precoil.mp3" length="30028946" type="audio/mp3"/>
       <guid isPermaLink="false">25c81f06ec8e4a39a925c1a883cec8b3</guid>
       <pubDate>Fri, 27 Oct 2017 09:10:29 -0200</pubDate>
       <itunes:duration>00:20:51</itunes:duration>
@@ -202,7 +216,7 @@
       <author>Joshua Kerievsky</author>
 
       <itunes:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
-      <enclosure url="http://www.modernagile.org/podcast/ModernAgileShow_13_Interview_with_Melissa_Perri_Matt_Barcomb_Issues_with_Product_Owner_role.mp3" length="27450025" type="audio/mp3"/>
+      <enclosure url="http://www.modernagile.org/podcast/ModernAgileShow_13_Interview_with_Melissa_Perri_Matt_Barcomb_Issues_with_Product_Owner_role.mp3" length="27450347" type="audio/mp3"/>
       <guid isPermaLink="false">de1ad140ccc448d59d4d57a0de82d023</guid>
       <pubDate>Sat, 7 Oct 2017 09:10:29 -0200</pubDate>
       <itunes:duration>00:19:04</itunes:duration>
@@ -215,7 +229,7 @@
       <author>Joshua Kerievsky</author>
 
       <itunes:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
-      <enclosure url="http://www.modernagile.org/podcast/ModernAgileShow%2012%20%20Interview%20with%20Laura%20Klein%20author%20of%20Build%20Better%20Products.mp3" length="36448477" type="audio/mp3"/>
+      <enclosure url="http://www.modernagile.org/podcast/ModernAgileShow%2012%20%20Interview%20with%20Laura%20Klein%20author%20of%20Build%20Better%20Products.mp3" length="36448799" type="audio/mp3"/>
       <guid isPermaLink="false">0c6701fff15709b04ae51713bf9ca3b89eeaaadf</guid>
       <pubDate>Fri, 22 Sep 2017 09:10:29 -0200</pubDate>
       <itunes:duration>00:25:19</itunes:duration>
@@ -228,7 +242,7 @@
       <author>Joshua Kerievsky</author>
 
       <itunes:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
-      <enclosure url="http://www.modernagile.org/podcast/ModernAgileShow%2011%20%20Interview%20with%20Brett%20Durrett%20CEO%20of%20IMVU.mp3" length="44256000" type="audio/mp3"/>
+      <enclosure url="http://www.modernagile.org/podcast/ModernAgileShow%2011%20%20Interview%20with%20Brett%20Durrett%20CEO%20of%20IMVU.mp3" length="44256322" type="audio/mp3"/>
       <guid isPermaLink="false">0c6701fff15709b04ae51713bf9ca3b89eeaddcf</guid>
       <pubDate>Wed, 15 Feb 2017 09:10:29 -0200</pubDate>
       <itunes:duration>00:30:44</itunes:duration>
@@ -241,7 +255,7 @@
       <author>Joshua Kerievsky</author>
 
       <itunes:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
-      <enclosure url="http://www.modernagile.org/podcast/ModernAgileShow%2010%20%20The%20Tar%20Pit%20Agile%20Leadership%20interview%20with%20David%20Lokietz.mp3" length="19777031" type="audio/mp3"/>
+      <enclosure url="http://www.modernagile.org/podcast/ModernAgileShow%2010%20%20The%20Tar%20Pit%20Agile%20Leadership%20interview%20with%20David%20Lokietz.mp3" length="19777353" type="audio/mp3"/>
       <guid isPermaLink="false">e99daccec529fe642da504761baa5014b2f08206</guid>
       <pubDate>Wed, 15 Feb 2017 09:10:29 -0200</pubDate>
       <itunes:duration>00:13:44</itunes:duration>
@@ -254,7 +268,7 @@
       <author>Joshua Kerievsky</author>
 
       <itunes:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
-      <enclosure url="http://www.modernagile.org/podcast/ModernAgileShow%209%20%20Cycles%20of%20Mistrust%20explained.mp3" length="17904000" type="audio/mp3"/>
+      <enclosure url="http://www.modernagile.org/podcast/ModernAgileShow%209%20%20Cycles%20of%20Mistrust%20explained.mp3" length="17904322" type="audio/mp3"/>
       <guid isPermaLink="false">3122b17808c8c84d2dbf1ade53b4c0abcd4ee6e9</guid>
       <pubDate>Wed, 25 Jan 2017 14:15:34 -0200</pubDate>
       <itunes:duration>00:12:26</itunes:duration>
@@ -267,7 +281,7 @@
       <author>Joshua Kerievsky</author>
 
       <itunes:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
-      <enclosure url="http://www.modernagile.org/podcast/ModernAgileShow%208%20%20Bargain%20Hunting%20Lean%20Startup%20Story%20Industrial%20Logic%20Story.mp3" length="18860747" type="audio/mp3"/>
+      <enclosure url="http://www.modernagile.org/podcast/ModernAgileShow%208%20%20Bargain%20Hunting%20Lean%20Startup%20Story%20Industrial%20Logic%20Story.mp3" length="18861069" type="audio/mp3"/>
       <guid isPermaLink="false">e8f78dd62c5a5a725da07851dfb417d9af1905cb</guid>
       <pubDate>Mon, 19 Dec 2016 20:07:48 -0200</pubDate>
       <itunes:duration>00:13:06</itunes:duration>
@@ -280,7 +294,7 @@
       <author>Joshua Kerievsky</author>
 
       <itunes:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
-      <enclosure url="http://www.modernagile.org/podcast/ModernAgileShow%207%20%20Jez%20Humble%20Interview%20Lean%20Enterprise%20Trunk%20Based%20Development.mp3" length="34648946" type="audio/mp3"/>
+      <enclosure url="http://www.modernagile.org/podcast/ModernAgileShow%207%20%20Jez%20Humble%20Interview%20Lean%20Enterprise%20Trunk%20Based%20Development.mp3" length="34649268" type="audio/mp3"/>
       <guid isPermaLink="false">0c1a97d867d88d2553d4690ac1200b922d94eab5</guid>
       <pubDate>Mon, 19 Dec 2016 20:08:21 -0200</pubDate>
       <itunes:duration>00:24:04</itunes:duration>
@@ -293,7 +307,7 @@
       <author>Joshua Kerievsky</author>
 
       <itunes:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
-      <enclosure url="http://www.modernagile.org/podcast/ModernAgileShow%206%20%20Make%20People%20Awesome%20Horizontally%20Hobbled%20Pixar%20Collaboration%20Story%20Badass%20Ex.mp3" length="21337037" type="audio/mp3"/>
+      <enclosure url="http://www.modernagile.org/podcast/ModernAgileShow%206%20%20Make%20People%20Awesome%20Horizontally%20Hobbled%20Pixar%20Collaboration%20Story%20Badass%20Ex.mp3" length="21337359" type="audio/mp3"/>
       <guid isPermaLink="false">7f2cb2c41aea82b178b0d15dc46bbf30f9dc81fc</guid>
       <pubDate>Mon, 19 Dec 2016 20:08:46 -0200</pubDate>
       <itunes:duration>00:14:49</itunes:duration>
@@ -306,7 +320,7 @@
       <author>Joshua Kerievsky</author>
 
       <itunes:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
-      <enclosure url="http://www.modernagile.org/podcast/ModernAgileShow%205%20%20Vision%20+%20Hustle%20What%20Product%20Leaders%20Do%20My%20Product%20Story%20Q+A.mp3" length="24169037" type="audio/mp3"/>
+      <enclosure url="http://www.modernagile.org/podcast/ModernAgileShow%205%20%20Vision%20+%20Hustle%20What%20Product%20Leaders%20Do%20My%20Product%20Story%20Q+A.mp3" length="24169359" type="audio/mp3"/>
       <guid isPermaLink="false">f5fa1cd7fe95361d54f170794466f2c0c3c61267</guid>
       <pubDate>Mon, 19 Dec 2016 20:09:03 -0200</pubDate>
       <itunes:duration>00:16:47</itunes:duration>
@@ -319,7 +333,7 @@
       <author>Joshua Kerievsky</author>
 
       <itunes:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
-      <enclosure url="http://www.modernagile.org/podcast/ModernAgileShow%204%20%20Deliver%20Value%20Continuously%20Demystified%20Lean%20Startup%20Continuous%20Deployment%20Q+A.mp3" length="25570875" type="audio/mp3"/>
+      <enclosure url="http://www.modernagile.org/podcast/ModernAgileShow%204%20%20Deliver%20Value%20Continuously%20Demystified%20Lean%20Startup%20Continuous%20Deployment%20Q+A.mp3" length="25571197" type="audio/mp3"/>
       <guid isPermaLink="false">7eb6175ba0313cac6d84fa2d26b539d802686fac</guid>
       <pubDate>Mon, 19 Dec 2016 20:11:35 -0200</pubDate>
       <itunes:duration>00:17:45</itunes:duration>
@@ -332,7 +346,7 @@
       <author>Joshua Kerievsky</author>
 
       <itunes:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
-      <enclosure url="http://www.modernagile.org/podcast/ModernAgileShow%203%20%20Networks%20Not%20Hierarchies%20Who%20Sets%20Team%20Priorities%20Hardest%20Principle%20to%20Adopt.mp3" length="20953037" type="audio/mp3"/>
+      <enclosure url="http://www.modernagile.org/podcast/ModernAgileShow%203%20%20Networks%20Not%20Hierarchies%20Who%20Sets%20Team%20Priorities%20Hardest%20Principle%20to%20Adopt.mp3" length="20953359" type="audio/mp3"/>
       <guid isPermaLink="false">790be9550ec5e1912a9161d5b1e7b2197f4a3228</guid>
       <pubDate>Mon, 19 Dec 2016 20:09:19 -0200</pubDate>
       <itunes:duration>00:14:33</itunes:duration>
@@ -345,7 +359,7 @@
       <author>Joshua Kerievsky</author>
 
       <itunes:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
-      <enclosure url="http://www.modernagile.org/podcast/ModernAgileShow%202%20%20Thomas%20Edison%20Story%20Feature%20Fake%20Is%20MA%20Old%20or%20New.mp3" length="19777136" type="audio/mp3"/>
+      <enclosure url="http://www.modernagile.org/podcast/ModernAgileShow%202%20%20Thomas%20Edison%20Story%20Feature%20Fake%20Is%20MA%20Old%20or%20New.mp3" length="19777458" type="audio/mp3"/>
       <guid isPermaLink="false">e6f36aa0b561fed5369e32bc2e21a1c696f989c1</guid>
       <pubDate>Mon, 19 Dec 2016 20:02:25 -0200</pubDate>
       <itunes:duration>00:13:44</itunes:duration>
@@ -358,7 +372,7 @@
       <author>Joshua Kerievsky</author>
 
       <itunes:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
-      <enclosure url="http://www.modernagile.org/podcast/ModernAgileShow%201%20%20Show%20Intro%20Four%20Principles%20Tom%20DeMarco%20Story.mp3" length="23746063" type="audio/mp3"/>
+      <enclosure url="http://www.modernagile.org/podcast/ModernAgileShow%201%20%20Show%20Intro%20Four%20Principles%20Tom%20DeMarco%20Story.mp3" length="23746385" type="audio/mp3"/>
       <guid isPermaLink="false">197c40dd40e1db0a19c23428a7c1801f86d4e8bb</guid>
       <pubDate>Mon, 19 Dec 2016 19:55:14 -0200</pubDate>
       <itunes:duration>00:12:22</itunes:duration>
