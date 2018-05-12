@@ -27,6 +27,20 @@
     <itunes:image href="http://www.modernagile.org/podcast/cover_1400.jpg"/>
 
     <item>
+      <title>Interview with Arlo Belshee</title>
+      <itunes:author>Joshua Kerievsky</itunes:author>
+      <author>Joshua Kerievsky</author>
+
+      <itunes:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
+      <enclosure url="http://www.modernagile.org/podcast/ModernAgileShow_28_Interview_with_Arlo_Belshee.mp3" length="13509662" type="audio/mp3"/>
+      <guid isPermaLink="false">4685c1ef93a04ab6997775e699eb74ee</guid>
+      <pubDate>Sat, 12 May 2018 09:10:29 -0200</pubDate>
+      <itunes:duration>00:19:08</itunes:duration>
+      <description>Episode 28 of the Modern Agile Show features an interview with Arlo Belshee, a pioneering agilest who is constantly pushing the boundaries of agility, from planning to programming. Arlo was at the deliver:Agile conference in Austin, Texas to talk about mastering legacy code via ultra-safe refactorings. Arlo describes “recipes” that people can execute manually on languages that have lacked automated refactoring tools (like C++). Together with his colleagues at Tableaux software, Arlo has helped to find a way to solve the classic chicken-and-egg problem of not being able to refactor because you lack tests and not being able to test code without first refactoring. The safe recipes use the type system and rely on the compiler to ensure that you can indeed refactor without automated tests and that the design transformations you make are perfectly safe. Each recipe involves micro-changes that together help you safely make important design changes. Arlo explains how his approach to ultra safe refactoring helped him and his colleagues make design changes in legacy Microsoft products, like Foxpro. This is the essence of the Modern Agile principle, Make Safety A Prerequisite. Also also mentions a practice called “safeguarding”, a practice of analyzing a defect stream after an incident occurs. His teams performs RCA (root cause analysis) to identify the hazards that were present when an incident occurred, followed by “remediation”, which is a small, time-boxed fix to make the code less hazardous.
+      </description>
+    </item>
+
+    <item>
       <title>Interview with Sam McAfee</title>
       <itunes:author>Joshua Kerievsky</itunes:author>
       <author>Joshua Kerievsky</author>
