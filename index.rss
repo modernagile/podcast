@@ -27,6 +27,20 @@
     <itunes:image href="http://www.modernagile.org/podcast/cover_1400.jpg"/>
 
     <item>
+      <title>Joshua Kerievsky talking about a Retrospective technique</title>
+      <itunes:author>Joshua Kerievsky</itunes:author>
+      <author>Joshua Kerievsky</author>
+
+      <itunes:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
+      <enclosure url="http://www.modernagile.org/podcast/ModernAgileShow_29_Joshua_Kerievsky_talking_about_a_Retrospective_technique.mp3" length="13109921" type="audio/mp3"/>
+      <guid isPermaLink="false">3c8bbfa3f940471ba9b654a7e18e0bdb</guid>
+      <pubDate>Wed, 19 Sep 2018 09:10:29 -0200</pubDate>
+      <itunes:duration>00:12:36</itunes:duration>
+      <description>Episode 29 of the Modern Agile Show features Joshua Kerievsky discussing Retrospectives. He tells a story of a team’s iteration retrospectives and how the same problem kept coming up, with no resolution in sight. Finally, by making it safe for an individual to speak up, he was able to help the person get past a problem. This reveals a need for a fabulous tool by Norm Kerth, the author of Project Retrospectives: A Handbook for Team Reviews. The tool helps teams assess how safe they feel to speak up. Using this tool, before a retrospectives begins, is a valuable way to understand what people are comfortable to say or not say and it can reveal when a team has a psychological safety issue.
+      </description>
+    </item>
+
+    <item>
       <title>Interview with Arlo Belshee</title>
       <itunes:author>Joshua Kerievsky</itunes:author>
       <author>Joshua Kerievsky</author>
