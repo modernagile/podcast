@@ -27,6 +27,19 @@
     <itunes:image href="http://www.modernagile.org/podcast/cover_1400.jpg"/>
 
     <item>
+      <title>Interview with Ted M Young</title>
+      <itunes:author>Joshua Kerievsky</itunes:author>
+      <author>Joshua Kerievsky</author>
+
+      <itunes:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
+      <enclosure url="http://www.modernagile.org/podcast/ModernAgileShow_30_Interview_with_Ted_M_Young" length="10039762" type="audio/mp3"/>
+      <guid isPermaLink="false">4c9348c14336409bb6d0b3b657d59cec</guid>
+      <pubDate>Tue, 11 Dec 2018 09:10:29 -0200</pubDate>
+      <itunes:duration>00:18:31</itunes:duration>
+      <description>Episode 30 of the Modern Agile Show features an interview with Ted M. Young, a veteran software practitioner, designer and instructor. Ted and I discuss the difference between using scaffolding and safety nets when changing code and what is means to program safely. We also discuss the need for awesome examples of great code from which people can learn, the idea of a “microlith” (a micro edition of a monolith) and we end with a discussion of viscosity in code and the importance of developing a sense of self awareness as a developer.</description>
+    </item>
+
+    <item>
       <title>Joshua Kerievsky talking about a Retrospective technique</title>
       <itunes:author>Joshua Kerievsky</itunes:author>
       <author>Joshua Kerievsky</author>
