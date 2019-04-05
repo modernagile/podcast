@@ -27,12 +27,25 @@
     <itunes:image href="http://www.modernagile.org/podcast/cover_1400.jpg"/>
 
     <item>
+      <title>Interview with Stas Zvinyatskyovsky</title>
+      <itunes:author>Joshua Kerievsky</itunes:author>
+      <author>Joshua Kerievsky</author>
+
+      <itunes:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
+      <enclosure url="http://www.modernagile.org/podcast/ModernAgileShow_31_Interview_with_Stas_Zvinyatskyovsky.mp3" length="10000503" type="audio/mp3"/>
+      <guid isPermaLink="false">00a24de409814301b3cf6740ad141dc8</guid>
+      <pubDate>Fri, 5 Apr 2019 09:10:29 -0200</pubDate>
+      <itunes:duration>00:17:09</itunes:duration>
+      <description>Episode 31 of the Modern Agile Show features an interview with Stas Zvinyatskyovsky, a managing Director at Solutions IQ/Accenture, a software architect and engineering leader. We talk about the epic journey that Stas co-led to help Yahoo move from a slow, manual, error-prone development process to a smooth, fast and reliable process with continuous deployment. We discuss the cultural issues and challenges associated with this difficult journey, which Stas calls ‘Taking the Elephant Out of the Tar Pit.’</description>
+    </item>
+
+    <item>
       <title>Interview with Ted M Young</title>
       <itunes:author>Joshua Kerievsky</itunes:author>
       <author>Joshua Kerievsky</author>
 
       <itunes:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
-      <enclosure url="http://www.modernagile.org/podcast/ModernAgileShow_30_Interview_with_Ted_M_Young" length="10039762" type="audio/mp3"/>
+      <enclosure url="http://www.modernagile.org/podcast/ModernAgileShow_30_Interview_with_Ted_M_Young.mp3" length="10039762" type="audio/mp3"/>
       <guid isPermaLink="false">4c9348c14336409bb6d0b3b657d59cec</guid>
       <pubDate>Tue, 11 Dec 2018 09:10:29 -0200</pubDate>
       <itunes:duration>00:18:31</itunes:duration>
