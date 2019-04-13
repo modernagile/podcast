@@ -32,6 +32,19 @@
       <author>Joshua Kerievsky</author>
 
       <itunes:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
+      <enclosure url="http://www.modernagile.org/podcast/ModernAgileShow_32_Interview_with_Mike_Rizzi.mp3" length="9015899" type="audio/mp3"/>
+      <guid isPermaLink="false">98a16f017c4b4ce19fb471b61d86d1c5</guid>
+      <pubDate>Sat, 13 Apr 2019 09:10:29 -0200</pubDate>
+      <itunes:duration>00:16:43</itunes:duration>
+      <description>Episode 32 of the Modern Agile Show features an interview with Mike Rizzi, a veteran software developer, engineer, pragmatic geek, lean/agile coach, honorary Gujurati and DJ. Mike tells a fabulous sorry about practicing financial safety in software development at a healthcare company. integrating a seemingly small feature into a huge automated interface that is connected to over 1,200 backend systems and the challenges of staying agile in that space. Also, Mike shares a story about his how his lifelong ski instructor lived Lean and intuitively applied agile principles to his teaching.</description>
+    </item>
+
+    <item>
+      <title>Interview with Stas Zvinyatskyovsky</title>
+      <itunes:author>Joshua Kerievsky</itunes:author>
+      <author>Joshua Kerievsky</author>
+
+      <itunes:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
       <enclosure url="http://www.modernagile.org/podcast/ModernAgileShow_31_Interview_with_Stas_Zvinyatskyovsky.mp3" length="10000503" type="audio/mp3"/>
       <guid isPermaLink="false">00a24de409814301b3cf6740ad141dc8</guid>
       <pubDate>Fri, 5 Apr 2019 09:10:29 -0200</pubDate>
