@@ -27,7 +27,21 @@
     <itunes:image href="http://www.modernagile.org/podcast/cover_1400.jpg"/>
 
     <item>
-      <title>Interview with Stas Zvinyatskyovsky</title>
+      <title>Interview with Emilia D'Anzica</title>
+      <itunes:author>Joshua Kerievsky</itunes:author>
+      <author>Joshua Kerievsky</author>
+
+      <itunes:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
+      <enclosure url="http://www.modernagile.org/podcast/ModernAgileShow_33_Interview_with_Emilia_D_Anzica.mp3" length="9470642" type="audio/mp3"/>
+      <guid isPermaLink="false">54a969cab8cc42a6be8b5473b2266a9e</guid>
+      <pubDate>Thu, 23 May 2019 09:10:29 -0200</pubDate>
+      <itunes:duration>00:16:55</itunes:duration>
+      <description>Episode 33 of the Modern Agile Show features an interview with Emilia D’Anzica, an industry leader in the emerging field of customer success. Emilia is currently a partner at Winning by Design, which recently acquired her self-founded company, Customer Growth Advisors. Emilia shares her story as a CS strategist and consultant, where she has helped companies increase sales by ditching the standard sales process for a more personal and emotional sales experience, focused on enlarging the impact a product/service has on a customer, and increasing sales from renewal of the product/service.
+</description>
+    </item>
+
+    <item>
+      <title>Interview with Mike Rizzi</title>
       <itunes:author>Joshua Kerievsky</itunes:author>
       <author>Joshua Kerievsky</author>
 
