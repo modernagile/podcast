@@ -27,6 +27,20 @@
     <itunes:image href="http://www.modernagile.org/podcast/cover_1400.jpg"/>
 
     <item>
+      <title>Interview with Wil Pannell</title>
+      <itunes:author>Joshua Kerievsky</itunes:author>
+      <author>Joshua Kerievsky</author>
+
+      <itunes:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
+      <enclosure url="http://www.modernagile.org/podcast/ModernAgileShow_34_Interview_with_Wil_Pannell.mp3" length="23702754" type="audio/mp3"/>
+      <guid isPermaLink="false">272af9d2492c447b8e403f4f17ec9a94</guid>
+      <pubDate>Tue, 5 Nov 2019 09:10:29 -0200</pubDate>
+      <itunes:duration>00:24:41</itunes:duration>
+      <description>Episode 34 of the Modern Agile Show features an interview with Wil Pannell, a self-taught programmer, agile/lean practitioner and in-demand coach at Industrial Logic. Wil is a scholar who is constantly improving his skills in technology and process. He is passionate about improving racial diversity in tech. Joshua and Wil discuss Wil's journey to agile engineering practices, the future of agile education and the urgency for more diversity in tech.</description>
+    </item>
+
+
+    <item>
       <title>Interview with Emilia D'Anzica</title>
       <itunes:author>Joshua Kerievsky</itunes:author>
       <author>Joshua Kerievsky</author>
@@ -36,8 +50,7 @@
       <guid isPermaLink="false">54a969cab8cc42a6be8b5473b2266a9e</guid>
       <pubDate>Thu, 23 May 2019 09:10:29 -0200</pubDate>
       <itunes:duration>00:16:55</itunes:duration>
-      <description>Episode 33 of the Modern Agile Show features an interview with Emilia D’Anzica, an industry leader in the emerging field of customer success. Emilia is currently a partner at Winning by Design, which recently acquired her self-founded company, Customer Growth Advisors. Emilia shares her story as a CS strategist and consultant, where she has helped companies increase sales by ditching the standard sales process for a more personal and emotional sales experience, focused on enlarging the impact a product/service has on a customer, and increasing sales from renewal of the product/service.
-</description>
+      <description>Episode 33 of the Modern Agile Show features an interview with Emilia D’Anzica, an industry leader in the emerging field of customer success. Emilia is currently a partner at Winning by Design, which recently acquired her self-founded company, Customer Growth Advisors. Emilia shares her story as a CS strategist and consultant, where she has helped companies increase sales by ditching the standard sales process for a more personal and emotional sales experience, focused on enlarging the impact a product/service has on a customer, and increasing sales from renewal of the product/service.</description>
     </item>
 
     <item>
