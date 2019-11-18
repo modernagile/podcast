@@ -27,6 +27,19 @@
     <itunes:image href="http://www.modernagile.org/podcast/cover_1400.jpg"/>
 
     <item>
+      <title>Interview with Ainsley Nies</title>
+      <itunes:author>Joshua Kerievsky</itunes:author>
+      <author>Joshua Kerievsky</author>
+
+      <itunes:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
+      <enclosure url="http://www.modernagile.org/podcast/ModernAgileShow_35_interview_with_ainsley_nies.mp3" length="24867315" type="audio/mp3"/>
+      <guid isPermaLink="false">ddcf05dc9612460e8971a6811120aa50</guid>
+      <pubDate>Sun, 17 Nov 2019 09:10:29 -0200</pubDate>
+      <itunes:duration>00:25:54</itunes:duration>
+      <description>Episode 35 of the Modern Agile Show features an interview with Ainsley Nies, a longstanding contributor to the Agile community, instructor of the Agile Management course at Golden Gate University and a co-author of the excellent book, “Liftoff: Start and Sustain Successful Agile Teams.” Ainsley and Josh discuss the benefits and nuances of chartering, an agile practice they both love and use frequently.</description>
+    </item>
+
+    <item>
       <title>Interview with Wil Pannell</title>
       <itunes:author>Joshua Kerievsky</itunes:author>
       <author>Joshua Kerievsky</author>
