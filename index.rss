@@ -27,6 +27,19 @@
     <itunes:image href="http://www.modernagile.org/podcast/cover_1400.jpg"/>
 
     <item>
+      <title>Interview with Pat Reed</title>
+      <itunes:author>Joshua Kerievsky</itunes:author>
+      <author>Joshua Kerievsky</author>
+
+      <itunes:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
+      <enclosure url="http://www.modernagile.org/podcast/ModernAgileShow_36_interview_with_pat_reed.mp3" length="26727651" type="audio/mp3"/>
+      <guid isPermaLink="false">3e44009b789e49c382e5c858e46b268c</guid>
+      <pubDate>Mon, 18 Nov 2019 09:10:29 -0200</pubDate>
+      <itunes:duration>00:27:50</itunes:duration>
+      <description>Episode 36 of the Modern Agile Show features an interview with Pat Reed, an executive coach with extensive agile experience at companies like The Gap, Disney, Universal Studios and many others. She’s known for guiding executives and leaders in large scale agile transformations within huge organizations. Joshua and Pat discuss her experiences spearheading the Australian government’s movement to agility and they go deep into the use of agile in accounting and people operations, as well as Pat’s use of Modern Agile principles.</description>
+    </item>
+
+    <item>
       <title>Interview with Ainsley Nies</title>
       <itunes:author>Joshua Kerievsky</itunes:author>
       <author>Joshua Kerievsky</author>
