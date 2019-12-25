@@ -27,6 +27,32 @@
     <itunes:image href="http://www.modernagile.org/podcast/cover_1400.jpg"/>
 
     <item>
+      <title>Interview with David Bland</title>
+      <itunes:author>Joshua Kerievsky</itunes:author>
+      <author>Joshua Kerievsky</author>
+
+      <itunes:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
+      <enclosure url="http://www.modernagile.org/podcast/ModernAgileShow_38_Interview_with_David_Bland.mp3" length="24468165" type="audio/mp3"/>
+      <guid isPermaLink="false">61e596259c47422d8a5e0cc2b961486e</guid>
+      <pubDate>Wed, 25 Dec 2019 09:10:29 -0200</pubDate>
+      <itunes:duration>00:25:29</itunes:duration>
+      <description>Episode 38 of the Modern Agile Show features an interview with David Bland, a veteran lean and agile coach and co-author of the book, Testing Business Ideas. The book features a catalog of 44 experiments that help people learn faster whether their ideas are desirable, viable and feasible. David shares stories about how a small San Francisco startup and a large insurance company both used experiments described in the book to de-risk their ideas and quickly learn from the market. David and Josh discuss how intuition, vision and ethics relate to testing business ideas, how important it is to create an environment in which it is safe to experiment and learn rapidly and how ideas from David’s book relates to Modern Agile’s four principles. David explains the challenges that relate to adopting the ideas from his book and he talks about the importance of having a healthy skepticism about what to build, talking to users and aligning work with company vision. Finally, David talks about Assumption Mapping, and how it helps fill in the gap between canvases, like the Business Model Canvas, and the experiments you conduct.</description>
+    </item>
+
+    <item>
+      <title>Interview With Diana Larsen</title>
+      <itunes:author>Joshua Kerievsky</itunes:author>
+      <author>Joshua Kerievsky</author>
+
+      <itunes:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
+      <enclosure url="http://www.modernagile.org/podcast/ModernAgileShow_37_Interview_with_Diana_Larsen.mp3" length="29971154" type="audio/mp3"/>
+      <guid isPermaLink="false">a6043bf15de241b4b61e619efd3d9973</guid>
+      <pubDate>Wed, 25 Dec 2019 09:10:29 -0200</pubDate>
+      <itunes:duration>00:31:13</itunes:duration>
+      <description>Episode 37 of the Modern Agile Show features an interview with Diana Larsen, co-founder and chief connector of the Agile Fluency project, co-author of the books, Agile Retrospectives,  Liftoff and Five Rules for Accelerated Learning. Diana is an expert in helping people learn. She and Joshua discuss the story of the learning that resulted from a large team’s end-of-project retrospective, including how HR’s 42-page individual performance review had choked productivity in the team. Diana discusses the vital practice of Chartering, she explains her Five Rules for Accelerated Learning and discusses how important learning is to being agile. Diana tells the story of how the Agile Fluency game helped a leadership team figure out how they needed to collaborate and understand each other better. Diana and Joshua discuss how to get to your edge in learning instead of staying in your comfort zone. Check out AgileFluency.org for more information and Diana and her work.</description>
+    </item>
+
+    <item>
       <title>Interview with Pat Reed</title>
       <itunes:author>Joshua Kerievsky</itunes:author>
       <author>Joshua Kerievsky</author>
