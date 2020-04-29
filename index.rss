@@ -25,6 +25,20 @@
     </image>
 
     <itunes:image href="http://www.modernagile.org/podcast/cover_1400.jpg"/>
+
+    <item>
+      <title>Modern Agile Show #41 | Interview with Rich Sheridan</title>
+      <itunes:author>joshua@industriallogic.com</itunes:author>
+      <author>joshua@industriallogic.com (Joshua Kerievsky)</author>
+
+      <itunes:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
+      <enclosure url="http://www.modernagile.org/podcast/Modern_Agile_Show_41_Interview_with_Rich_Sheridan.mp3" length="21624804" type="audio/mp3"/>
+      <guid isPermaLink="false">9c3ebc92c0524ca7a1df1f3ee3bb7520</guid>
+      <pubDate>Wed, 29 Apr 2020 13:19:56 -0500</pubDate>
+      <itunes:duration>00:28:04</itunes:duration>
+      <description>Episode 41 of the Modern Agile Show features an interview with Rich Sheridan (@menloprez), president of Menlo Innovations in Ann Arbor, Michigan and the author of Joy, Inc. and Chief Joy Officer. Rich describes some of the lessons he learned from the innovative entrepreneurs who run Zingermann’s Deli as well as the book, The Great Game Of Business. Such learnings include open book finance, great customer service,  how to take care of people and how to collaborate with others in every aspect of a business. Rich describes his company’s mission, which is to end human suffering in the world as it relates to technology. He compares the work of human systems to flying an airplane, including the “lift” of human energy, the “thrust” of a purpose-driven mission to pull people forward, limiting the “weight” of bureaucracy and the “drag” of fear. We discuss the difference between how the Wright Brothers learned to fly as compared to the failed experiments of the well-funded, celebrated scientist and secretary of the Smithsonian Institute, Samuel Langley. Rich talks about how he created his company after first experiencing his “personal trough of disillusionment” during an earlier part of his career.  We talk about how important safety is to human performance, how fragile safety can be and the importance of “pumping fear out of the room.” Rich describes why he calls himself a Chief Storyteller, the role of Joy in his company and the importance of being a purpose-driven organization.</description>
+    </item>
+
     <item>
       <title>Modern Agile Show #40: Interview with Elisabeth Hendrickson</title>
       <itunes:author>joshua@industriallogic.com</itunes:author>
