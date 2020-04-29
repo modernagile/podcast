@@ -25,6 +25,20 @@
         <itunes:image href="http://www.modernagile.org/podcast/cover_1400.jpg"/>
 
         <item>
+            <title>Modern Agile Show #42 | Interview with Ellen Gottesdiener</title>
+            <itunes:author>joshua@industriallogic.com</itunes:author>
+            <author>joshua@industriallogic.com (Joshua Kerievsky)</author>
+            <itunes:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
+            <enclosure url="http://www.modernagile.org/podcast/Modern_Agile_Show_42_Interview_with_Ellen_Gottesdiener.mp3" length="15937060" type="audio/mp3"/>
+            <link>https://www.youtube.com/watch?v=5HHV90AhPH4</link>
+            <guid isPermaLink="false">854c923e542848cd8233d81b1a6a2c17</guid>
+            <pubDate>Wed, 29 Apr 2020 17:37:38 -0500</pubDate>
+            <itunes:duration>00:33:35</itunes:duration>
+            <description>Episode 42 of the Modern Agile Show features an interview with Ellen Gottesdiener, CEO of EBG Consulting (ebgconsulting.com) and the author of Discover to Deliver and Requirements by Collaboration. Ellen, an expert in product management and agile development, begins by noting that many agile teams pay more attention to user stories than to product discovery. They become optimized to deliver the wrong things faster rather than learning to cycle efficiently between discovery and delivery. Ellen talks about the importance of being product-led (not project-led) and customer-focused. She discusses the problems of having product management “throw requirements over the wall” to delivery people, rather than functioning as one, cross-functional team. Ellen believes that the agile community tends to miss the point on product management and that has caused a rift with the product management community and all of their strategic, non-tactical, work. Ellen describes her model for collaborative engagements, which she calls the 6Ps: Purpose, Participants, Place, Products, Principles and Process. Ellen describes her work as combining the principles of agile with the discipline of product management.</description>
+        </item>
+
+
+        <item>
             <title>Interview with Rich Sheridan</title>
             <itunes:author>joshua@industriallogic.com</itunes:author>
             <author>joshua@industriallogic.com (Joshua Kerievsky)</author>
