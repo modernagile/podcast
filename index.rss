@@ -24,6 +24,18 @@
 
         <itunes:image href="http://www.modernagile.org/podcast/cover_1400.jpg"/>
 
+        <item>
+            <title>#44 Interview with Jeff "Cheezy" Morgan</title>
+            <link>https://www.youtube.com/watch?v=wpbVe8l3CXM</link>
+            <author>joshua@industriallogic.com (Joshua Kerievsky)</author>
+            <pubDate>Wed, 29 Apr 2020 17:49:43 -0500</pubDate>
+            <guid isPermaLink="false">78dec9d7a395468eaeaec4498b6add8d</guid>
+            <enclosure url="http://www.modernagile.org/podcast/Modern_Agile_Show_44_Interview_with_Jeff_Cheezy_Morgan.mp3" length="18244196" type="audio/mp3"/>
+            <itunes:author>joshua@industriallogic.com</itunes:author>
+            <itunes:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
+            <itunes:duration>00:23:25</itunes:duration>
+            <description>Episode 44 of the Modern Agile Show features an interview with Jeff “Cheezy” Morgan, a veteran agilist, lean practitioner, DevOps leader and co-founder of Industrial Logic Canada. Jeff describes the fabulous Lean/DevOps transformation he’s led with teams in a conservative Canadian bank. The teams used to only do 4-5 deployments per year. They now do 4-5 deployments per day!  The teams used Scrum and had many QA people to help test software. Through Cheezy’s work, they eliminated all QA staff, got rid of all ScrumMasters and switched to a lightweight, Kanban approach. Cheezy describes the agility of his teams as they’ve had to release emergency features related to the Canadian government’s response to COVID-19. Allowing individuals who badly need money to survive during the crises to use a direct deposit service, rather than waiting for a check in the mail, is an example of a feature that Cheezy’s teams were able to get into production within 2-3 days of getting the requirements. This Lean/DevOps work has dramatically reduced the time from Concept to Cash, a particularly important metric during a pandemic. The improvements have also allowed the business to perform hundreds of feature experiments in production, gather data from those experiments and make better decisions about what will most help users. Cheezy discusses how risky traditional deployment is for most organizations and how modern practices reduce so much of the risk. Cheezy describes the technical safety his teams have put in place to allow for safe, continuous delivery of value to production. Finally, Cheezy describes how he’s been educating remote technical teams via effective, online training, with the help of Industrial Logic’s Agile eLearning.</description>
+        </item>
 
         <item>
             <title>#43 Interview with Maaret Pyhäjärvi</title>
@@ -50,7 +62,6 @@
             <itunes:duration>00:33:35</itunes:duration>
             <description>Episode 42 of the Modern Agile Show features an interview with Ellen Gottesdiener, CEO of EBG Consulting (ebgconsulting.com) and the author of Discover to Deliver and Requirements by Collaboration. Ellen, an expert in product management and agile development, begins by noting that many agile teams pay more attention to user stories than to product discovery. They become optimized to deliver the wrong things faster rather than learning to cycle efficiently between discovery and delivery. Ellen talks about the importance of being product-led (not project-led) and customer-focused. She discusses the problems of having product management “throw requirements over the wall” to delivery people, rather than functioning as one, cross-functional team. Ellen believes that the agile community tends to miss the point on product management and that has caused a rift with the product management community and all of their strategic, non-tactical, work. Ellen describes her model for collaborative engagements, which she calls the 6Ps: Purpose, Participants, Place, Products, Principles and Process. Ellen describes her work as combining the principles of agile with the discipline of product management.</description>
         </item>
-
 
         <item>
             <title>Interview with Rich Sheridan</title>
