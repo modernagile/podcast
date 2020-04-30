@@ -1,0 +1,643 @@
+<rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns1="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>The Modern Agile Show</title>
+        <link>http://www.modernagile.org</link>
+        <description>Over the past decade, innovative companies, software industry thought leaders and lean/agile pioneers have discovered simpler, sturdier, more streamlined ways to be agile. These modern approaches share a focus on producing exceptional outcomes and growing an outstanding culture. Today, it makes far more sense to bypass antiquated agility in favor of modern approaches. Modern agile methods are defined by four guiding principles: Make People Awesome; Make Safety a Prerequisite; Experiment and Learn Rapidly and Deliver Value Continuously. World famous organizations like Google, Amazon, AirBnB, Etsy and others are living proof of the power of these four principles. However, you don&#8217;t need to be a name brand company to leverage modern agile wisdom.</description>
+        <ns0:summary>Over the past decade, innovative companies, software industry thought leaders and lean/agile pioneers have discovered simpler, sturdier, more streamlined ways to be agile. These modern approaches share a focus on producing exceptional outcomes and growing an outstanding culture. Today, it makes far more sense to bypass antiquated agility in favor of modern approaches. Modern agile methods are defined by four guiding principles: Make People Awesome; Make Safety a Prerequisite; Experiment and Learn Rapidly and Deliver Value Continuously. World famous organizations like Google, Amazon, AirBnB, Etsy and others are living proof of the power of these four principles. However, you don&#8217;t need to be a name brand company to leverage modern agile wisdom.</ns0:summary>
+        <ns0:category text="Education" />
+        <ns0:explicit>no</ns0:explicit>
+        <ns0:subtitle>Agile for Every Endeavor</ns0:subtitle>
+        <language>en-US</language>
+        <ns0:author>Joshua Kerievsky</ns0:author>
+        <ns0:owner>
+            <ns0:name>Joshua Kerievsky</ns0:name>
+            <ns0:email>joshua@industriallogic.com</ns0:email>
+        </ns0:owner>
+        <ns1:link href="http://modernagile.github.io/podcast" rel="self" type="application/rss+xml" />
+
+        <image>
+            <url>http://www.modernagile.org/podcast/cover_144.jpg</url>
+            <title>The Modern Agile Show</title>
+            <link>http://www.modernagile.org/podcast</link>
+        </image>
+
+        <ns0:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
+
+        <item>
+            <title>#44 Interview with Jeff "Cheezy" Morgan</title>
+            <link>https://www.youtube.com/watch?v=wpbVe8l3CXM</link>
+            <author>joshua@industriallogic.com (Joshua Kerievsky)</author>
+            <pubDate>Wed, 29 Apr 2020 17:49:43 -0500</pubDate>
+            <guid isPermaLink="false">78dec9d7a395468eaeaec4498b6add8d</guid>
+            <enclosure length="18244196" type="audio/mp3" url="http://www.modernagile.org/podcast/Modern_Agile_Show_44_Interview_with_Jeff_Cheezy_Morgan.mp3" />
+            <ns0:author>joshua@industriallogic.com</ns0:author>
+            <ns0:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
+            <ns0:duration>00:23:25</ns0:duration>
+            <description>poo</description>
+        </item>
+
+        <item>
+            <title>#43 Interview with Maaret Pyh&#228;j&#228;rvi</title>
+            <ns0:author>joshua@industriallogic.com</ns0:author>
+            <author>joshua@industriallogic.com (Joshua Kerievsky)</author>
+            <ns0:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
+            <enclosure length="14270614" type="audio/mp3" url="http://www.modernagile.org/podcast/Modern_Agile_Show_43_Interview_with_Maaret.mp3" />
+            <link>https://www.youtube.com/watch?v=IETVizs_x2M</link>
+            <guid isPermaLink="false">168dacfdda194357924d4bdd83a6e58b</guid>
+            <pubDate>Wed, 29 Apr 2020 17:42:36 -0500</pubDate>
+            <ns0:duration>00:19:36</ns0:duration>
+            <description>Episode 43 of the Modern Agile Show features an interview with Maaret Pyh&#228;j&#228;rvi (@maaretp), a Lead Quality Engineer at FSecure, an agile practitioner and the author of Strong Style Pair Programming, Mob Programming Guidebook and Exploratory Testing. Maaret describes the culture at FSecure and the benefits her team discovered when they experimented with removing the Product Owner from their team (though there is still a Product Management group in the company). Her team found that the benefits included far greater productivity, solving problems they hadn&#8217;t managed to solve in years and becoming far more data-driven. Maaret describes the &#8220;superpower&#8221; have having a &#8220;feature team&#8221; that works across three different technical stacks, and how #NoProductOwner, #NoEstimates and #NoJira are working nicely. She describes how her teams have shortened releases from every six months to every two weeks. Maaret&#8217;s team runs about 300,000 automated tests everyday on 14,000 virtual machines. Only a few of the FSecure developers use Test-Driven Development. The company also got rid of all Scrum Masters during a resizing. Coaching happens, yet it&#8217;s not an official title. Maaret is a fan of the Modern Agile principles and uses them in her work. You can learn more about Maaret and her work at https://maaretp.com/</description>
+        </item>
+
+        <item>
+            <title>#42 Interview with Ellen Gottesdiener</title>
+            <ns0:author>joshua@industriallogic.com</ns0:author>
+            <author>joshua@industriallogic.com (Joshua Kerievsky)</author>
+            <ns0:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
+            <enclosure length="15937060" type="audio/mp3" url="http://www.modernagile.org/podcast/Modern_Agile_Show_42_Interview_with_Ellen_Gottesdiener.mp3" />
+            <link>https://www.youtube.com/watch?v=5HHV90AhPH4</link>
+            <guid isPermaLink="false">854c923e542848cd8233d81b1a6a2c17</guid>
+            <pubDate>Wed, 29 Apr 2020 17:37:38 -0500</pubDate>
+            <ns0:duration>00:33:35</ns0:duration>
+            <description>Episode 42 of the Modern Agile Show features an interview with Ellen Gottesdiener, CEO of EBG Consulting (ebgconsulting.com) and the author of Discover to Deliver and Requirements by Collaboration. Ellen, an expert in product management and agile development, begins by noting that many agile teams pay more attention to user stories than to product discovery. They become optimized to deliver the wrong things faster rather than learning to cycle efficiently between discovery and delivery. Ellen talks about the importance of being product-led (not project-led) and customer-focused. She discusses the problems of having product management &#8220;throw requirements over the wall&#8221; to delivery people, rather than functioning as one, cross-functional team. Ellen believes that the agile community tends to miss the point on product management and that has caused a rift with the product management community and all of their strategic, non-tactical, work. Ellen describes her model for collaborative engagements, which she calls the 6Ps: Purpose, Participants, Place, Products, Principles and Process. Ellen describes her work as combining the principles of agile with the discipline of product management.</description>
+        </item>
+
+        <item>
+            <title>Interview with Rich Sheridan</title>
+            <ns0:author>joshua@industriallogic.com</ns0:author>
+            <author>joshua@industriallogic.com (Joshua Kerievsky)</author>
+
+            <ns0:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
+            <enclosure length="21624804" type="audio/mp3" url="http://www.modernagile.org/podcast/Modern_Agile_Show_41_Interview_with_Rich_Sheridan.mp3" />
+            <link>https://www.youtube.com/watch?v=wkDVoAD6_sg</link>
+            <guid isPermaLink="false">9c3ebc92c0524ca7a1df1f3ee3bb7520</guid>
+            <pubDate>Wed, 29 Apr 2020 13:19:56 -0500</pubDate>
+            <ns0:duration>00:28:04</ns0:duration>
+            <description>Episode 41 of the Modern Agile Show features an interview with Rich Sheridan (@menloprez), president of Menlo Innovations in Ann Arbor, Michigan and the author of Joy, Inc. and Chief Joy Officer. Rich describes some of the lessons he learned from the innovative entrepreneurs who run Zingermann&#8217;s Deli as well as the book, The Great Game Of Business. Such learnings include open book finance, great customer service,  how to take care of people and how to collaborate with others in every aspect of a business. Rich describes his company&#8217;s mission, which is to end human suffering in the world as it relates to technology. He compares the work of human systems to flying an airplane, including the &#8220;lift&#8221; of human energy, the &#8220;thrust&#8221; of a purpose-driven mission to pull people forward, limiting the &#8220;weight&#8221; of bureaucracy and the &#8220;drag&#8221; of fear. We discuss the difference between how the Wright Brothers learned to fly as compared to the failed experiments of the well-funded, celebrated scientist and secretary of the Smithsonian Institute, Samuel Langley. Rich talks about how he created his company after first experiencing his &#8220;personal trough of disillusionment&#8221; during an earlier part of his career.  We talk about how important safety is to human performance, how fragile safety can be and the importance of &#8220;pumping fear out of the room.&#8221; Rich describes why he calls himself a Chief Storyteller, the role of Joy in his company and the importance of being a purpose-driven organization.</description>
+        </item>
+
+        <item>
+            <title>Interview with Elisabeth Hendrickson</title>
+            <ns0:author>joshua@industriallogic.com</ns0:author>
+            <author>joshua@industriallogic.com (Joshua Kerievsky)</author>
+
+            <ns0:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
+            <enclosure length="14674010" type="audio/mp3" url="http://www.modernagile.org/podcast/Modern_Agile_Show_40_Interview_with_Elisabeth_Hendrickson.mp3" />
+            <link>https://www.youtube.com/watch?v=h42GjkXJOgg</link>
+            <guid isPermaLink="false">595b06026c054353bc88b7a17650996e</guid>
+            <pubDate>Wed, 29 Apr 2020 12:31:02 -0500</pubDate>
+            <ns0:duration>0:33:30</ns0:duration>
+            <description>Episode 40 of the Modern Agile Show features an interview with Elisabeth Hendrickson, a veteran tester, developer, agilist, trainer, author and former executive of Research and Development at Pivotal. We discuss how Elisabeth first got into agile development and what a paradigm shift Extreme Programming (XP) was for her. We discuss her definition of agile and how she has applied agile principles to her work. We discuss how the testing community first reacted to practices like Test-Driven Development. We also discuss Exploratory Testing, the impact it&#8217;s had on agile development and Elisabeth&#8217;s book on the subject, called Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing.</description>
+        </item>
+
+        <item>
+            <title>Interview with David Parker</title>
+            <ns0:author>joshua@industriallogic.com</ns0:author>
+            <author>joshua@industriallogic.com (Joshua Kerievsky)</author>
+
+            <ns0:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
+            <enclosure length="16692641" type="audio/mp3" url="http://www.modernagile.org/podcast/ModernAgileShow_39_Interview_with_David_Parker.mp3" />
+            <link>https://www.youtube.com/watch?v=S8UyNaRL09o</link>
+            <guid isPermaLink="false">7a0d2291472c4e37b7605a75f02137b4</guid>
+            <pubDate>Tue, 28 Apr 2020 11:22:35 -0500</pubDate>
+            <ns0:duration>0:28:49</ns0:duration>
+            <description>#ModernAgile 39 of the Modern Agile Show features my interview with David Parker, an experienced lean/agile coach. This interview is largely about David's excellent work to thoroughly improve the talent acquisition process of a major brand-name company. David used #lean principles to visualize the work, focus on value, help people collaborate, remove bottlenecks, parallelize work and ultimately produce  a far more efficient and effective hiring process.</description>
+        </item>
+
+        <item>
+            <title>Interview with David Bland</title>
+            <ns0:author>Joshua Kerievsky</ns0:author>
+            <author>joshua@industriallogic.com (Joshua Kerievsky)</author>
+
+            <ns0:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
+            <enclosure length="24468165" type="audio/mp3" url="http://www.modernagile.org/podcast/ModernAgileShow_38_Interview_with_David_Bland.mp3" />
+            <link>https://www.youtube.com/watch?v=tfoNq0VoeeA</link>
+            <guid isPermaLink="false">61e596259c47422d8a5e0cc2b961486e</guid>
+            <pubDate>Wed, 25 Dec 2019 09:10:29 -0200</pubDate>
+            <ns0:duration>00:25:29</ns0:duration>
+            <description>Episode 38 of the Modern Agile Show features an interview with David Bland, a veteran lean and agile coach and co-author of the book, Testing Business Ideas. The book features a catalog of 44 experiments that help people learn faster whether their ideas are desirable, viable and feasible. David shares stories about how a small San Francisco startup and a large insurance company both used experiments described in the book to de-risk their ideas and quickly learn from the market. David and Josh discuss how intuition, vision and ethics relate to testing business ideas, how important it is to create an environment in which it is safe to experiment and learn rapidly and how ideas from David&#8217;s book relates to Modern Agile&#8217;s four principles. David explains the challenges that relate to adopting the ideas from his book and he talks about the importance of having a healthy skepticism about what to build, talking to users and aligning work with company vision. Finally, David talks about Assumption Mapping, and how it helps fill in the gap between canvases, like the Business Model Canvas, and the experiments you conduct.</description>
+        </item>
+
+        <item>
+            <title>Interview With Diana Larsen</title>
+            <ns0:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
+            <enclosure length="29971154" type="audio/mp3" url="http://www.modernagile.org/podcast/ModernAgileShow_37_Interview_with_Diana_Larsen.mp3" />
+            <link>https://www.youtube.com/watch?v=jL0nhPPim7o</link>
+            <guid isPermaLink="false">a6043bf15de241b4b61e619efd3d9973</guid>
+            <pubDate>Wed, 25 Dec 2019 09:10:29 -0200</pubDate>
+            <ns0:duration>00:31:13</ns0:duration>
+            <ns0:author>Joshua Kerievsky</ns0:author>
+            <author>joshua@industriallogic.com (Joshua Kerievsky)</author>
+            <description>Episode 37 of the Modern Agile Show features an interview with Diana Larsen, co-founder and chief connector of the Agile Fluency project, co-author of the books, Agile Retrospectives,  Liftoff and Five Rules for Accelerated Learning. Diana is an expert in helping people learn. She and Joshua discuss the story of the learning that resulted from a large team&#8217;s end-of-project retrospective, including how HR&#8217;s 42-page individual performance review had choked productivity in the team. Diana discusses the vital practice of Chartering, she explains her Five Rules for Accelerated Learning and discusses how important learning is to being agile. Diana tells the story of how the Agile Fluency game helped a leadership team figure out how they needed to collaborate and understand each other better. Diana and Joshua discuss how to get to your edge in learning instead of staying in your comfort zone. Check out AgileFluency.org for more information and Diana and her work.</description>
+        </item>
+
+        <item>
+            <title>Interview with Pat Reed</title>
+            <ns0:author>Joshua Kerievsky</ns0:author>
+            <author>joshua@industriallogic.com (Joshua Kerievsky)</author>
+
+            <ns0:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
+            <enclosure length="26727651" type="audio/mp3" url="http://www.modernagile.org/podcast/ModernAgileShow_36_interview_with_pat_reed.mp3" />
+            <link>https://www.youtube.com/watch?v=M4VxJgBbP84</link>
+            <guid isPermaLink="false">3e44009b789e49c382e5c858e46b268c</guid>
+            <pubDate>Mon, 18 Nov 2019 09:10:29 -0200</pubDate>
+            <ns0:duration>00:27:50</ns0:duration>
+            <description>Episode 36 of the Modern Agile Show features an interview with Pat Reed, an executive coach with extensive agile experience at companies like The Gap, Disney, Universal Studios and many others. She&#8217;s known for guiding executives and leaders in large scale agile transformations within huge organizations. Joshua and Pat discuss her experiences spearheading the Australian government&#8217;s movement to agility and they go deep into the use of agile in accounting and people operations, as well as Pat&#8217;s use of Modern Agile principles.</description>
+        </item>
+
+        <item>
+            <title>Interview with Ainsley Nies</title>
+            <ns0:author>Joshua Kerievsky</ns0:author>
+            <author>joshua@industriallogic.com (Joshua Kerievsky)</author>
+
+            <ns0:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
+            <enclosure length="24867315" type="audio/mp3" url="http://www.modernagile.org/podcast/ModernAgileShow_35_interview_with_ainsley_nies.mp3" />
+            <link>https://www.youtube.com/watch?v=voyaW28abCs</link>
+            <guid isPermaLink="false">ddcf05dc9612460e8971a6811120aa50</guid>
+            <pubDate>Sun, 17 Nov 2019 09:10:29 -0200</pubDate>
+            <ns0:duration>00:25:54</ns0:duration>
+            <description>Episode 35 of the Modern Agile Show features an interview with Ainsley Nies, a longstanding contributor to the Agile community, instructor of the Agile Management course at Golden Gate University and a co-author of the excellent book, &#8220;Liftoff: Start and Sustain Successful Agile Teams.&#8221; Ainsley and Josh discuss the benefits and nuances of chartering, an agile practice they both love and use frequently.</description>
+        </item>
+
+        <item>
+            <title>Interview with Wil Pannell</title>
+            <ns0:author>Joshua Kerievsky</ns0:author>
+            <author>joshua@industriallogic.com (Joshua Kerievsky)</author>
+
+            <ns0:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
+            <enclosure length="23702754" type="audio/mp3" url="http://www.modernagile.org/podcast/ModernAgileShow_34_Interview_with_Wil_Pannell.mp3" />
+            <link>https://www.youtube.com/watch?v=lwVZtEd2U9E</link>
+            <guid isPermaLink="false">272af9d2492c447b8e403f4f17ec9a94</guid>
+            <pubDate>Tue, 5 Nov 2019 09:10:29 -0200</pubDate>
+            <ns0:duration>00:24:41</ns0:duration>
+            <description>Episode 34 of the Modern Agile Show features an interview with Wil Pannell, a self-taught programmer, agile/lean practitioner and in-demand coach at Industrial Logic. Wil is a scholar who is constantly improving his skills in technology and process. He is passionate about improving racial diversity in tech. Joshua and Wil discuss Wil's journey to agile engineering practices, the future of agile education and the urgency for more diversity in tech.</description>
+        </item>
+
+
+        <item>
+            <title>Interview with Emilia D'Anzica</title>
+            <ns0:author>Joshua Kerievsky</ns0:author>
+            <author>joshua@industriallogic.com (Joshua Kerievsky)</author>
+
+            <ns0:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
+            <enclosure length="9470642" type="audio/mp3" url="http://www.modernagile.org/podcast/ModernAgileShow_33_Interview_with_Emilia_D_Anzica.mp3" />
+            <link>https://www.youtube.com/watch?v=Thatc656wOo</link>
+            <guid isPermaLink="false">54a969cab8cc42a6be8b5473b2266a9e</guid>
+            <pubDate>Thu, 23 May 2019 09:10:29 -0200</pubDate>
+            <ns0:duration>00:16:55</ns0:duration>
+            <description>Episode 33 of the Modern Agile Show features an interview with Emilia D&#8217;Anzica, an industry leader in the emerging field of customer success. Emilia is currently a partner at Winning by Design, which recently acquired her self-founded company, Customer Growth Advisors. Emilia shares her story as a CS strategist and consultant, where she has helped companies increase sales by ditching the standard sales process for a more personal and emotional sales experience, focused on enlarging the impact a product/service has on a customer, and increasing sales from renewal of the product/service.</description>
+        </item>
+
+        <item>
+            <title>Interview with Mike Rizzi</title>
+            <ns0:author>Joshua Kerievsky</ns0:author>
+            <author>joshua@industriallogic.com (Joshua Kerievsky)</author>
+
+            <ns0:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
+            <enclosure length="9015899" type="audio/mp3" url="http://www.modernagile.org/podcast/ModernAgileShow_32_Interview_with_Mike_Rizzi.mp3" />
+            <link>https://www.youtube.com/watch?v=7zuYx_SZzaY</link>
+            <guid isPermaLink="false">98a16f017c4b4ce19fb471b61d86d1c5</guid>
+            <pubDate>Sat, 13 Apr 2019 09:10:29 -0200</pubDate>
+            <ns0:duration>00:16:43</ns0:duration>
+            <description>Episode 32 of the Modern Agile Show features an interview with Mike Rizzi, a veteran software developer, engineer, pragmatic geek, lean/agile coach, honorary Gujurati and DJ. Mike tells a fabulous sorry about practicing financial safety in software development at a healthcare company. integrating a seemingly small feature into a huge automated interface that is connected to over 1,200 backend systems and the challenges of staying agile in that space. Also, Mike shares a story about his how his lifelong ski instructor lived Lean and intuitively applied agile principles to his teaching.</description>
+        </item>
+
+        <item>
+            <title>Interview with Stas Zvinyatskyovsky</title>
+            <ns0:author>Joshua Kerievsky</ns0:author>
+            <author>joshua@industriallogic.com (Joshua Kerievsky)</author>
+
+            <ns0:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
+            <enclosure length="10000503" type="audio/mp3" url="http://www.modernagile.org/podcast/ModernAgileShow_31_Interview_with_Stas_Zvinyatskyovsky.mp3" />
+            <link>https://www.youtube.com/watch?v=KKJRfNDs5TU</link>
+            <guid isPermaLink="false">00a24de409814301b3cf6740ad141dc8</guid>
+            <pubDate>Fri, 5 Apr 2019 09:10:29 -0200</pubDate>
+            <ns0:duration>00:17:09</ns0:duration>
+            <description>Episode 31 of the Modern Agile Show features an interview with Stas Zvinyatskyovsky, a managing Director at Solutions IQ/Accenture, a software architect and engineering leader. We talk about the epic journey that Stas co-led to help Yahoo move from a slow, manual, error-prone development process to a smooth, fast and reliable process with continuous deployment. We discuss the cultural issues and challenges associated with this difficult journey, which Stas calls Taking the Elephant Out of the Tar Pit.</description>
+        </item>
+
+        <item>
+            <title>Interview with Ted M Young</title>
+            <ns0:author>Joshua Kerievsky</ns0:author>
+            <author>joshua@industriallogic.com (Joshua Kerievsky)</author>
+
+            <ns0:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
+            <enclosure length="10039762" type="audio/mp3" url="http://www.modernagile.org/podcast/ModernAgileShow_30_Interview_with_Ted_M_Young.mp3" />
+            <link>https://www.youtube.com/watch?v=2pmvwJDMIBA</link>
+            <guid isPermaLink="false">4c9348c14336409bb6d0b3b657d59cec</guid>
+            <pubDate>Tue, 11 Dec 2018 09:10:29 -0200</pubDate>
+            <ns0:duration>00:18:31</ns0:duration>
+            <description>Episode 30 of the Modern Agile Show features an interview with Ted M. Young, a veteran software practitioner, designer and instructor. Ted and I discuss the difference between using scaffolding and safety nets when changing code and what is means to program safely. We also discuss the need for awesome examples of great code from which people can learn, the idea of a &#8220;microlith&#8221; (a micro edition of a monolith) and we end with a discussion of viscosity in code and the importance of developing a sense of self awareness as a developer.</description>
+        </item>
+
+        <item>
+            <title>Joshua Kerievsky talking about a Retrospective technique</title>
+            <ns0:author>Joshua Kerievsky</ns0:author>
+            <author>joshua@industriallogic.com (Joshua Kerievsky)</author>
+
+            <ns0:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
+            <enclosure length="13109921" type="audio/mp3" url="http://www.modernagile.org/podcast/ModernAgileShow_29_Joshua_Kerievsky_talking_about_a_Retrospective_technique.mp3" />
+            <link>https://www.youtube.com/watch?v=wt3FbWipz_c</link>
+            <guid isPermaLink="false">3c8bbfa3f940471ba9b654a7e18e0bdb</guid>
+            <pubDate>Wed, 19 Sep 2018 09:10:29 -0200</pubDate>
+            <ns0:duration>00:12:36</ns0:duration>
+            <description>Episode 29 of the Modern Agile Show features Joshua Kerievsky discussing Retrospectives. He tells a story of a team&#8217;s iteration retrospectives and how the same problem kept coming up, with no resolution in sight. Finally, by making it safe for an individual to speak up, he was able to help the person get past a problem. This reveals a need for a fabulous tool by Norm Kerth, the author of Project Retrospectives: A Handbook for Team Reviews. The tool helps teams assess how safe they feel to speak up. Using this tool, before a retrospectives begins, is a valuable way to understand what people are comfortable to say or not say and it can reveal when a team has a psychological safety issue.
+            </description>
+        </item>
+
+        <item>
+            <title>Interview with Arlo Belshee</title>
+            <ns0:author>Joshua Kerievsky</ns0:author>
+            <author>joshua@industriallogic.com (Joshua Kerievsky)</author>
+
+            <ns0:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
+            <enclosure length="13509662" type="audio/mp3" url="http://www.modernagile.org/podcast/ModernAgileShow_28_Interview_with_Arlo_Belshee.mp3" />
+            <link>https://www.youtube.com/watch?v=HLyb-HVxnp0</link>
+            <guid isPermaLink="false">4685c1ef93a04ab6997775e699eb74ee</guid>
+            <pubDate>Sat, 12 May 2018 09:10:29 -0200</pubDate>
+            <ns0:duration>00:19:08</ns0:duration>
+            <description>Episode 28 of the Modern Agile Show features an interview with Arlo Belshee, a pioneering agilest who is constantly pushing the boundaries of agility, from planning to programming. Arlo was at the deliver:Agile conference in Austin, Texas to talk about mastering legacy code via ultra-safe refactorings. Arlo describes &#8220;recipes&#8221; that people can execute manually on languages that have lacked automated refactoring tools (like C++). Together with his colleagues at Tableaux software, Arlo has helped to find a way to solve the classic chicken-and-egg problem of not being able to refactor because you lack tests and not being able to test code without first refactoring. The safe recipes use the type system and rely on the compiler to ensure that you can indeed refactor without automated tests and that the design transformations you make are perfectly safe. Each recipe involves micro-changes that together help you safely make important design changes. Arlo explains how his approach to ultra safe refactoring helped him and his colleagues make design changes in legacy Microsoft products, like Foxpro. This is the essence of the Modern Agile principle, Make Safety A Prerequisite. Also also mentions a practice called &#8220;safeguarding&#8221;, a practice of analyzing a defect stream after an incident occurs. His teams performs RCA (root cause analysis) to identify the hazards that were present when an incident occurred, followed by &#8220;remediation&#8221;, which is a small, time-boxed fix to make the code less hazardous.
+            </description>
+        </item>
+
+        <item>
+            <title>Interview with Sam McAfee</title>
+            <ns0:author>Joshua Kerievsky</ns0:author>
+            <author>joshua@industriallogic.com (Joshua Kerievsky)</author>
+
+            <ns0:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
+            <enclosure length="24442354" type="audio/mp3" url="http://www.modernagile.org/podcast/ModernAgileShow_27_Interview_with_Sam_McAfee.mp3" />
+            <link>https://www.youtube.com/watch?v=rX1ysA2wXSs</link>
+            <guid isPermaLink="false">1dd2b959f5224bcabb8cbdc70c0898e9</guid>
+            <pubDate>Sun, 1 Apr 2018 09:10:29 -0200</pubDate>
+            <ns0:duration>00:19:08</ns0:duration>
+            <description>Episode 27 of the Modern Agile Show features an interview with Sam McAfee, a product management coach and author of the book, Startup Patterns. Sam explains some of the main reasons why enterprise agile teams fail, based on a popular Medium.com post that he wrote. He explains that organizations that have achieved success in a product area have operationalized work to contain risk and drive out variability. Unfortunately, that work tends to not fit so well with innovation work. Rigid, top-down, command-and-control style management rarely fits well a strong, self-directed team-based model. Financial incentives and annual reviews also tend to get in the way, as they tend to be focused on individuals rather than teams. Sam describes the importance of building a flexible, adaptable learning culture in order for enterprise agile to thrive. You need supportive leaders at the top and it can help to develop an innovative space or area that is separate from the main business. Innovation work needs some structure, clear goals and a e safe-to-fail culture. Sam sees a need to outfit innovation spaces with mini-versions of core business functions like HR, legal, etc.
+            </description>
+        </item>
+
+        <item>
+            <title>Interview with Mary and Tom Poppendieck</title>
+            <ns0:author>Joshua Kerievsky</ns0:author>
+            <author>joshua@industriallogic.com (Joshua Kerievsky)</author>
+
+            <ns0:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
+            <enclosure length="13820068" type="audio/mp3" url="http://www.modernagile.org/podcast/ModernAgileShow_26_Interview_with_Mary_and_Tom_Poppendieck.mp3" />
+            <link>https://www.youtube.com/watch?v=2Zv0KhgC0C4</link>
+            <guid isPermaLink="false">b3639980fef646439db46d047aee7532</guid>
+            <pubDate>Tue, 27 Mar 2018 09:10:29 -0200</pubDate>
+            <ns0:duration>00:19:08</ns0:duration>
+            <description>Episode 26 of the Modern Agile Show features an interview with Mary and Tom Poppendieck, co-authors of numerous excellent books, including Lean Software Development, Leading Lean Software Development and The Lean Mindset. Mary gave a wonderful keynote at the Scandinavian Agile conference (2018) called Proxies and Permissions. In that talk, Mary pointed out that she and Tom believe that &#8220;people ought to be able to figure things out for themselves&#8221; rather than being fed recipes. In Mary&#8217;s talk she highlighted Bret Victor's (@worrydream) Designer&#8217;s Principle (from his talk, Inventing on Principle: https://www.youtube.com/watch?v=EGqwX...) that &#8220;creators need an immediate connection with what they create.&#8221; Mary describes how important it is for people on agile teams to be "autonomous and asynchronous&#8221;, to get feedback rapidly from what they build instead of waiting a long time to see the impact of what you do. This is especially true if you are running experiments. Mary and Tom discuss a variety of &#8220;proxies&#8221; that stand in the way of fast feedback and autonomy. Mary explains how &#8220;speed and safety&#8221; go hand in hand. Mary believes that many agile scaling approaches are &#8220;a crutch&#8221; for organizations that have tight dependencies between people and architecture issues that require lots of people to talk, rather than being able to work autonomously, as they do at Amazon. Mary and Tom discuss how they see the four Modern Agile principles and how they relate to their Lean work. Finally, Mary describes how teams need a &#8220;concept of leadership&#8221;, someone who works as part of the team and helps teach the team how to work well, solve problems and learn.
+            </description>
+        </item>
+
+        <item>
+            <title>Interview with Vasco Duarte, #NoEstimates</title>
+            <ns0:author>Joshua Kerievsky</ns0:author>
+            <author>joshua@industriallogic.com (Joshua Kerievsky)</author>
+
+            <ns0:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
+            <enclosure length="13356440" type="audio/mp3" url="http://www.modernagile.org/podcast/ModernAgileShow_25_Interview_with_Vasco_Duarte.mp3" />
+            <link>https://www.youtube.com/watch?v=c1gXaAO0JRY</link>
+            <guid isPermaLink="false">e8ec75ca83c44bf5a2935313a4ff464a</guid>
+            <pubDate>Fri, 23 Mar 2018 09:10:29 -0200</pubDate>
+            <ns0:duration>00:19:08</ns0:duration>
+            <description>Episode 25 of the Modern Agile Show features an interview with Vasco Duarte, an agile/lean expert, leader of the #NoEstimates movement, author of the #NoEstimates book and host of the popular ScrumMaster podcast. Vasco talks about how to conduct high-speed experiments (e.g. within 24 hours) so we invest in knowledge acquisition, not estimates. Vasco explains how he helped a car company test voice activation in cars without spending tons of time and money. Instead of estimating when voice activation would be available, he helped the company quickly gain knowledge about the value of the feature. Vasco describes how he uses throughput, rather than estimates, to help companies realize what is possible and avoid wasting millions of euros. Vasco says that the lost art of agile is &#8220;slicing work down&#8221; based on testing your core hypothesis. He mentions the need to get to incremental funding, rather than big upfront funding approaches. We discuss how critical it is to make sure you have a team that can actually work together and get work done, before anything else. Finally, Vasco mentions how he uses impact mapping and story mapping to help manage work and describes a backlog as a &#8220;mental disease that prevents us from forgetting bad ideas.&#8221;</description>
+        </item>
+
+        <item>
+            <title>Interview with Karl Scotland</title>
+            <ns0:author>Joshua Kerievsky</ns0:author>
+            <author>joshua@industriallogic.com (Joshua Kerievsky)</author>
+            <ns0:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
+            <enclosure length="11576773" type="audio/mp3" url="http://www.modernagile.org/podcast/ModernAgileShow_24_Interview_with_Karl_Scotland.mp3" />
+            <link>https://www.youtube.com/watch?v=gFH_I0vl8Hg</link>
+            <guid isPermaLink="false">620ed75104b94ad18879a52741035cba</guid>
+            <pubDate>Fri, 23 Mar 2018 09:10:29 -0200</pubDate>
+            <ns0:duration>00:19:08</ns0:duration>
+            <description>Episode 24 of the Modern Agile Show features an interview with Karl Scotland, veteran agile/lean leader, focused on helping to build learning organizations. Karl discusses how to work with agile strategically. He recognized that four statements I&#8217;d written in the first Modern Agile blog were actually strategies and he observed that they might be a better guide than even the four values of the Manifesto for Agile Software Development. He observes that strategies are generative and enable constraints rather than govern us. He explains what the phrase, &#8220;Don&#8217;t be a tabby cat trying to be a cheetah&#8221; means.  He mentions the importance of Richard Rumelt&#8217;s book, Good Strategy Bad Strategy. Finally, Karl discusses his work on what he calls the X Matrix.</description>
+        </item>
+
+        <item>
+            <title>Interview with Colleen Johnson, Founder and CEO, ScatterSpoke</title>
+            <ns0:author>Joshua Kerievsky</ns0:author>
+            <author>joshua@industriallogic.com (Joshua Kerievsky)</author>
+
+            <ns0:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
+            <enclosure length="10404613" type="audio/mp3" url="http://www.modernagile.org/podcast/ModernAgileShow_23_Interview_with_Colleen_Johnson.mp3" />
+            <link>https://www.youtube.com/watch?v=V8h9np8agRQ</link>
+            <guid isPermaLink="false">b3559263b78c4e6cbb7d75e45aa07d94</guid>
+            <pubDate>Tue, 20 Mar 2018 09:10:29 -0200</pubDate>
+            <ns0:duration>00:19:08</ns0:duration>
+            <description>Episode 23 of the Modern Agile Show features an interview with Colleen Johnson, Founder and CEO of ScatterSpoke, a tool for more effective team retrospectives. Colleen recounts how difficult it can be to put the agile practices to work when you&#8217;re building your own product. She mentions the ease of falling into &#8220;MVP bloat&#8221;, adding too many features to your early product and not delivering early enough. Colleen describes how ScatterSpoke supports the practice of Continuous Retrospectives by letting people continuously submit (via tools like Slack) messages that get saved in ScatterSpoke.  Colleen mentions her work with responsive roadmapping, a pull-based and capacity-oriented approach to roadmapping that constantly considers changing customer needs instead of nailing down a concrete plan that isn&#8217;t supposed to change.</description>
+        </item>
+
+        <item>
+            <title>Interview with Woody Zuill</title>
+            <ns0:author>Joshua Kerievsky</ns0:author>
+            <author>joshua@industriallogic.com (Joshua Kerievsky)</author>
+
+            <ns0:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
+            <enclosure length="16128814" type="audio/mp3" url="http://www.modernagile.org/podcast/ModernAgileShow_22_Interview_with_Woody_Zuill.mp3" />
+            <link>https://www.youtube.com/watch?v=9_FSe0VrYGI</link>
+            <guid isPermaLink="false">5c155d5433a645bca34ac1450209d8c6</guid>
+            <pubDate>Sun, 11 Mar 2018 09:10:29 -0200</pubDate>
+            <ns0:duration>00:28:48</ns0:duration>
+            <description>Episode 22 of the Modern Agile Show features an interview with Woody Zuill, father of Mob Programming, a pioneer of #NoEstimates and an experienced Lean/Agile trainer and coach. Woody describes the early origins and influences of Mob Programming, including the study groups that he conducted at Hunter Industries. Woody describes the importance of daily Retrospectives in order to improve every day. He also explains how Mob Programming helps humans work well together and how the practice of mobbing helped him become a better person.</description>
+        </item>
+
+        <item>
+            <title>Interview with John P. Cutler</title>
+            <ns0:author>Joshua Kerievsky</ns0:author>
+            <author>joshua@industriallogic.com (Joshua Kerievsky)</author>
+
+            <ns0:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
+            <enclosure length="25305655" type="audio/mp3" url="http://www.modernagile.org/podcast/ModernAgileShow_21_Interview_with_John_Cutler.mp3" />
+            <link>https://www.youtube.com/watch?v=t_RapghZTXY</link>
+            <guid isPermaLink="false">cccbbe743bcc402b98928b9568a3485f</guid>
+            <pubDate>Fri, 19 Jan 2018 09:10:29 -0200</pubDate>
+            <ns0:duration>00:27:43</ns0:duration>
+            <description>Episode 21 of the Modern Agile Show features an interview with John P. Cutler, expert product manager, systems thinker, prolific writer and thought leader. John recalls when he first came across Modern Agile and what inspires him about it. We discuss the question, &#8220;Is Modern Agile most applicable for individuals or teams/organizations?&#8221; We look into how John experiments and learns rapidly in order to deliver value continuously. We discuss which Modern Agile principle we&#8217;d start with and John answers the question, &#8220;What is your biggest frustration when working with a new organization?"</description>
+        </item>
+
+        <item>
+            <title>Interview with David Hussman</title>
+            <ns0:author>Joshua Kerievsky</ns0:author>
+            <author>joshua@industriallogic.com (Joshua Kerievsky)</author>
+
+            <ns0:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
+            <enclosure length="21643846" type="audio/mp3" url="http://www.modernagile.org/podcast/ModernAgileShow_20_Interview_with_David_Hussman.mp3" />
+            <link>https://www.youtube.com/watch?v=l9664oYj5Ac</link>
+            <guid isPermaLink="false">28b4a8e9aeb8497d8db2c1fa471f38f4</guid>
+            <pubDate>Wed, 10 Jan 2018 09:10:29 -0200</pubDate>
+            <ns0:duration>00:29:41</ns0:duration>
+            <description>Episode 20 of the Modern Agile Show features an interview with David Hussman, veteran agile leader, product geek and founder/CEO of DevJam. We discuss his talk, "Learning in Product: How Wrong are You Ready to Be?" We reminisce about Extreme Programming and the nature of the early community that formed around it. We discuss how to handle known vs. unknown software work, how we change the way we work when moving from complicated to complex efforts, as well as what David&#8217;s been up to in the Chaos community.</description>
+        </item>
+
+        <item>
+            <title>Interview with Brian Beckman of Amazon</title>
+            <ns0:author>Joshua Kerievsky</ns0:author>
+            <author>joshua@industriallogic.com (Joshua Kerievsky)</author>
+
+            <ns0:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
+            <enclosure length="29054683" type="audio/mp3" url="http://www.modernagile.org/podcast/ModernAgileShow_19_Interview_with_Brian_Beckman_of_Amazon.mp3" />
+            <link>https://www.youtube.com/watch?v=JOwZ9Ir3n9U</link>
+            <guid isPermaLink="false">79b6c70f118c4ca6a8298278babb9d81</guid>
+            <pubDate>Thu, 21 Dec 2017 09:10:29 -0200</pubDate>
+            <ns0:duration>00:20:11</ns0:duration>
+            <description>Episode 19 of the Modern Agile Show features an interview with Brian Beckman, physicist and principal engineer in robotics at Amazon. Brian met Richard Feynman when he was a child and teenager and became greatly inspired by him. Brian tells a marvelous story that illustrates how serious Amazon is about investing in &#8220;customer obsession&#8221; and how the company embraces experimentation to discover faster, safer and cheaper ways to serve customers. He explains the necessity of Amazon&#8217;s drone delivery service, how it won&#8217;t be deployed until it&#8217;s safe, as well as why and when Amazon transitioned to microservices. Finally, Brian answers my question, &#8220;are people psychologically safe at Amazon?"</description>
+        </item>
+
+        <item>
+            <title>Interview with Jennifer Marsman, Machine Learning and Artificial Intelligence</title>
+            <ns0:author>Joshua Kerievsky</ns0:author>
+            <author>joshua@industriallogic.com (Joshua Kerievsky)</author>
+
+            <ns0:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
+            <enclosure length="31793152" type="audio/mp3" url="http://www.modernagile.org/podcast/ModernAgileShow_18_Interview_with_Jennifer_Marsman_Machine_Learning_and_Artificial_Intelligence.mp3" />
+            <link>https://www.youtube.com/watch?v=LEvHzyTkReI</link>
+            <guid isPermaLink="false">96eb72119f2c43588fa3a3c2e912e66f</guid>
+            <pubDate>Thu, 21 Dec 2017 09:10:29 -0200</pubDate>
+            <ns0:duration>00:22:05</ns0:duration>
+            <description>Episode 18 of the Modern Agile Show features an interview with Jennifer Marsman, an expert in machine learning and artificial intelligence and a principal software development engineer at Microsoft. Jennifer spoke at YOW! 2017 about her experiment to use machine learning to analyze brain wave data to determine if people were telling the truth. She explains how supervised machine learning and deep learning via neural networks are helping make people awesome. Finally, she explains how Microsoft&#8217;s culture is changing, including how they are encouraging people to conduct experiments and have a growth mindset.</description>
+        </item>
+
+        <item>
+            <title>Interview with Dave Farley, Co-Author of Continuous Delivery</title>
+            <ns0:author>Joshua Kerievsky</ns0:author>
+            <author>joshua@industriallogic.com (Joshua Kerievsky)</author>
+
+            <ns0:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
+            <enclosure length="39456322" type="audio/mp3" url="http://www.modernagile.org/podcast/ModernAgileShow_17_Interview_with_Dave_Farley_CoAuthor_of_Continuous_Delivery.mp3" />
+            <link>https://www.youtube.com/watch?v=BqEMVGKEpTU</link>
+            <guid isPermaLink="false">32b1dab0b6094e0c96ee4d29dac068e5</guid>
+            <pubDate>Fri, 15 Dec 2017 09:10:29 -0200</pubDate>
+            <ns0:duration>00:27:24</ns0:duration>
+            <description>Episode 17 of the Modern Agile Show features an interview with Dave Farley, co-author of Continuous Delivery. an independent software programmer and consultant and YOW! 2017 keynote speaker. Dave believes in applying the scientific method to software development and sees Continuous Delivery as a platform for experimentation. He believes that the biggest impact you can have in a software team is to get members of the team sitting next to people using the software and learning from what they observe. He explains how Continuous Compliance flows out of Continuous Delivery to provide rich, valuable audits trails for auditors.Finally, Dave tells us about how he Makes Safety A Prerequisite via "unconditional positive regard&#8221; (a concept he learned from his wife, Katherine) and how he creates high-trust team environments.</description>
+        </item>
+
+            <item>
+            <title>Interview with Lynn Langit</title>
+            <ns0:author>Joshua Kerievsky</ns0:author>
+            <author>joshua@industriallogic.com (Joshua Kerievsky)</author>
+
+            <ns0:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
+            <enclosure length="27979483" type="audio/mp3" url="http://www.modernagile.org/podcast/ModernAgileShow_16_Interview_with_Lynn_Langit.mp3" />
+            <link>https://www.youtube.com/watch?v=R4aD8Z_1B1k</link>
+            <guid isPermaLink="false">8ae9ed8dbb644a8e8edc0c5898f82e7f</guid>
+            <pubDate>Thu, 14 Dec 2017 09:10:29 -0200</pubDate>
+            <ns0:duration>00:19:26</ns0:duration>
+            <description>Episode 16 of the Modern Agile Show features an interview with Lynn Langit, a cloud architect, data architect, coder, instructor, autodidact and keynote speaker. Lynn entered the field of software at age 38, she is the author of a best-selling Hadoop course on Linda.com, she taught her calculus at age 51 in order to learn Machine Learning, she teaches kids how to program and she&#8217;s been helping scientists create high performance, cloud-based Genomic editing software.</description>
+        </item>
+
+        <item>
+            <title>Interview with Jeff Patton at YOW! 2017</title>
+            <ns0:author>Joshua Kerievsky</ns0:author>
+            <author>joshua@industriallogic.com (Joshua Kerievsky)</author>
+
+            <ns0:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
+            <enclosure length="33162386" type="audio/mp3" url="http://www.modernagile.org/podcast/ModernAgileShow_15_Interview_with_Jeff_Patton_at_YOW2017.mp3" />
+            <link>https://www.youtube.com/watch?v=_Si-GivNkYo</link>
+            <guid isPermaLink="false">0416b4914c3f4f5eb0096a29b5bbee79</guid>
+            <pubDate>Tue, 12 Dec 2017 09:10:29 -0200</pubDate>
+            <ns0:duration>00:23:02</ns0:duration>
+            <description>Episode 15 of the Modern Agile Show features an interview with Jeff Patton, veteran agilest, author of the best-selling book, User Story Mapping and the guy who teaches the fantastic workshop, Passionate Product Leadership.</description>
+        </item>
+
+        <item>
+            <title>Interview with David J Bland, Founder and CEO, Precoil</title>
+            <ns0:author>Joshua Kerievsky</ns0:author>
+            <author>joshua@industriallogic.com (Joshua Kerievsky)</author>
+
+            <ns0:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
+            <enclosure length="30028946" type="audio/mp3" url="http://www.modernagile.org/podcast/ModernAgileShow_14_Interview_with_David_J_Bland_Founder_CEO_Precoil.mp3" />
+            <link>https://www.youtube.com/watch?v=JtGGFmiUeUM</link>
+            <guid isPermaLink="false">25c81f06ec8e4a39a925c1a883cec8b3</guid>
+            <pubDate>Fri, 27 Oct 2017 09:10:29 -0200</pubDate>
+            <ns0:duration>00:20:51</ns0:duration>
+            <description>Episode 14 of the Modern Agile Show features an interview with David J Bland, CEO and Founder of Precoil. We discuss optimizing for learning, how your customer determines what is viable in an MVP, how David helps companies experiment and learn rapidly and safely and what is assumption mapping.</description>
+        </item>
+
+        <item>
+            <title>Interview with Melissa Perri and Matt Barcomb: Issues with Product Owner role</title>
+            <ns0:author>Joshua Kerievsky</ns0:author>
+            <author>joshua@industriallogic.com (Joshua Kerievsky)</author>
+
+            <ns0:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
+            <enclosure length="27450347" type="audio/mp3" url="http://www.modernagile.org/podcast/ModernAgileShow_13_Interview_with_Melissa_Perri_Matt_Barcomb_Issues_with_Product_Owner_role.mp3" />
+            <link>https://www.youtube.com/watch?v=6_UX-iNenvA</link>
+            <guid isPermaLink="false">de1ad140ccc448d59d4d57a0de82d023</guid>
+            <pubDate>Sat, 7 Oct 2017 09:10:29 -0200</pubDate>
+            <ns0:duration>00:19:04</ns0:duration>
+            <description>Episode 13 of the Modern Agile Show features an interview with Melissa Perri and Matt Barcomb. We discuss issues with the Product Owner role, as defined by Scrum and explore the importance of product management and how to make product ownership a team sport.</description>
+        </item>
+
+        <item>
+            <title>Interview with Laura Klein, author of Build Better Products</title>
+            <ns0:author>Joshua Kerievsky</ns0:author>
+            <author>joshua@industriallogic.com (Joshua Kerievsky)</author>
+
+            <ns0:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
+            <enclosure length="36448799" type="audio/mp3" url="http://www.modernagile.org/podcast/ModernAgileShow%2012%20%20Interview%20with%20Laura%20Klein%20author%20of%20Build%20Better%20Products.mp3" />
+            <link>https://www.youtube.com/watch?v=ZlvBSFyi3qI</link>
+            <guid isPermaLink="false">0c6701fff15709b04ae51713bf9ca3b89eeaaadf</guid>
+            <pubDate>Fri, 22 Sep 2017 09:10:29 -0200</pubDate>
+            <ns0:duration>00:25:19</ns0:duration>
+            <description>Episode 12 of the Modern Agile Show features an interview with Lean Startup/UX guru, Laura Klein, author of Build Better Products: A Modern Approach to Building Successful User-Centered Products. Learn how her work maps to Modern Agile, User Maps and how Laura writes books on a treadmill!</description>
+        </item>
+
+        <item>
+            <title>Interview with Brett Durrett CEO of IMVU</title>
+            <ns0:author>Joshua Kerievsky</ns0:author>
+            <author>joshua@industriallogic.com (Joshua Kerievsky)</author>
+
+            <ns0:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
+            <enclosure length="44256322" type="audio/mp3" url="http://www.modernagile.org/podcast/ModernAgileShow%2011%20%20Interview%20with%20Brett%20Durrett%20CEO%20of%20IMVU.mp3" />
+            <link>https://www.youtube.com/watch?v=zO1A7jzL8xo</link>
+            <guid isPermaLink="false">0c6701fff15709b04ae51713bf9ca3b89eeaddcf</guid>
+            <pubDate>Wed, 15 Feb 2017 09:10:29 -0200</pubDate>
+            <ns0:duration>00:30:44</ns0:duration>
+            <description>Episode 11 of the Modern Agile Show features an interview with the great Brett Durrett, CEO of the Silicon Valley company, IMVU. He talks about the Modern Agile principles present at IMVU and how the company grew from nothing to $50 million/year in revenue.</description>
+        </item>
+
+        <item>
+            <title>The Tar Pit Agile Leadership interview with David Lokietz</title>
+            <ns0:author>Joshua Kerievsky</ns0:author>
+            <author>joshua@industriallogic.com (Joshua Kerievsky)</author>
+
+            <ns0:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
+            <enclosure length="19777353" type="audio/mp3" url="http://www.modernagile.org/podcast/ModernAgileShow%2010%20%20The%20Tar%20Pit%20Agile%20Leadership%20interview%20with%20David%20Lokietz.mp3" />
+            <link>https://www.youtube.com/watch?v=hJhAfshi400</link>
+            <guid isPermaLink="false">e99daccec529fe642da504761baa5014b2f08206</guid>
+            <pubDate>Wed, 15 Feb 2017 09:10:29 -0200</pubDate>
+            <ns0:duration>00:13:44</ns0:duration>
+            <description>Episode 10 of the Modern Agile Show begins with a small passage from The Mythical Man-Month, by Frederick P. Brooks, Jr, followed by an interview about agile leadership with agile coach, David Lokietz.</description>
+        </item>
+
+        <item>
+            <title>Cycles of Mistrust explained</title>
+            <ns0:author>Joshua Kerievsky</ns0:author>
+            <author>joshua@industriallogic.com (Joshua Kerievsky)</author>
+
+            <ns0:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
+            <enclosure length="17904322" type="audio/mp3" url="http://www.modernagile.org/podcast/ModernAgileShow%209%20%20Cycles%20of%20Mistrust%20explained.mp3" />
+            <link>https://www.youtube.com/watch?v=lUsjZKCBtSk</link>
+            <guid isPermaLink="false">3122b17808c8c84d2dbf1ade53b4c0abcd4ee6e9</guid>
+            <pubDate>Wed, 25 Jan 2017 14:15:34 -0200</pubDate>
+            <ns0:duration>00:12:26</ns0:duration>
+            <description>Episode 9 of the Modern Agile Show is about the Cycle of Mistrust, as documented in the fantastic book, Driving Fear out of the Workplace, by Kathleen D. Ryan and Daniel K. Oestreich.</description>
+        </item>
+
+        <item>
+            <title>Bargain Hunting Lean Startup Story Industrial Logic Story</title>
+            <ns0:author>Joshua Kerievsky</ns0:author>
+            <author>joshua@industriallogic.com (Joshua Kerievsky)</author>
+
+            <ns0:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
+            <enclosure length="18861069" type="audio/mp3" url="http://www.modernagile.org/podcast/ModernAgileShow%208%20%20Bargain%20Hunting%20Lean%20Startup%20Story%20Industrial%20Logic%20Story.mp3" />
+            <link> https://www.youtube.com/watch?v=Y31PkLhKUPo</link>
+            <guid isPermaLink="false">e8f78dd62c5a5a725da07851dfb417d9af1905cb</guid>
+            <pubDate>Mon, 19 Dec 2016 20:07:48 -0200</pubDate>
+            <ns0:duration>00:13:06</ns0:duration>
+            <description>Episode 8 of the Modern Agile Show is about the valuable practice of bargain hunting. You&#8217;ll hear bargain hunting stories about plumbing, a teleportation feature in IMVU (the birthplace of Lean Startup) and a security feature in Industrial Logic&#8217;s eLearning.</description>
+        </item>
+
+        <item>
+            <title>Jez Humble Interview Lean Enterprise Trunk Based Development</title>
+            <ns0:author>Joshua Kerievsky</ns0:author>
+            <author>joshua@industriallogic.com (Joshua Kerievsky)</author>
+
+            <ns0:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
+            <enclosure length="34649268" type="audio/mp3" url="http://www.modernagile.org/podcast/ModernAgileShow%207%20%20Jez%20Humble%20Interview%20Lean%20Enterprise%20Trunk%20Based%20Development.mp3" />
+            <link>https://www.youtube.com/watch?v=MJE4Hu1ok_0</link>
+            <guid isPermaLink="false">0c1a97d867d88d2553d4690ac1200b922d94eab5</guid>
+            <pubDate>Mon, 19 Dec 2016 20:08:21 -0200</pubDate>
+            <ns0:duration>00:24:04</ns0:duration>
+            <description>Episode 7 of the Modern Agile Show features an interview with Jez Humble, co-author of Continuous Delivery, Lean Enterprise and The DevOps Handbook. Jez reads a passage from Lean Enterprise, we discuss the Modern Agile principles, Continuous Delivery and Trunk-based development.</description>
+        </item>
+
+        <item>
+            <title>Make People Awesome Horizontally Hobbled Pixar Collaboration Story Badass Ex</title>
+            <ns0:author>Joshua Kerievsky</ns0:author>
+            <author>joshua@industriallogic.com (Joshua Kerievsky)</author>
+
+            <ns0:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
+            <enclosure length="21337359" type="audio/mp3" url="http://www.modernagile.org/podcast/ModernAgileShow%206%20%20Make%20People%20Awesome%20Horizontally%20Hobbled%20Pixar%20Collaboration%20Story%20Badass%20Ex.mp3" />
+            <link>https://www.youtube.com/watch?v=szp4ueCq4ng</link>
+            <guid isPermaLink="false">7f2cb2c41aea82b178b0d15dc46bbf30f9dc81fc</guid>
+            <pubDate>Mon, 19 Dec 2016 20:08:46 -0200</pubDate>
+            <ns0:duration>00:14:49</ns0:duration>
+            <description>A show about Making People Awesome, Horizontally Hobbled teams, the designer table that caused collaboration issues at Pixar, Kathy Sierra's Badass book and what it teaches us.</description>
+        </item>
+
+        <item>
+            <title>Vision + Hustle What Product Leaders Do My Product Story Q+A</title>
+            <ns0:author>Joshua Kerievsky</ns0:author>
+            <author>joshua@industriallogic.com (Joshua Kerievsky)</author>
+
+            <ns0:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
+            <enclosure length="24169359" type="audio/mp3" url="http://www.modernagile.org/podcast/ModernAgileShow%205%20%20Vision%20+%20Hustle%20What%20Product%20Leaders%20Do%20My%20Product%20Story%20Q+A.mp3" />
+            <link>https://www.youtube.com/watch?v=drkx43F8VK</link>
+            <guid isPermaLink="false">f5fa1cd7fe95361d54f170794466f2c0c3c61267</guid>
+            <pubDate>Mon, 19 Dec 2016 20:09:03 -0200</pubDate>
+            <ns0:duration>00:16:47</ns0:duration>
+            <description>You need Vision and Hustle to be awesome at implementing Modern Agile, a passage about Product Leaders from the book, The Discipline of Market Leaders, a story about Industrial Logic's product at a famous search engine company and answering a question about deadlines.</description>
+        </item>
+
+        <item>
+            <title>Deliver Value Continuously Demystified Lean Startup Continuous Deployment Q+A.</title>
+            <ns0:author>Joshua Kerievsky</ns0:author>
+            <author>joshua@industriallogic.com (Joshua Kerievsky)</author>
+
+            <ns0:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
+            <enclosure length="25571197" type="audio/mp3" url="http://www.modernagile.org/podcast/ModernAgileShow%204%20%20Deliver%20Value%20Continuously%20Demystified%20Lean%20Startup%20Continuous%20Deployment%20Q+A.mp3" />
+            <link>https://www.youtube.com/watch?v=F7K3Ow5l-Yo</link>
+            <guid isPermaLink="false">7eb6175ba0313cac6d84fa2d26b539d802686fac</guid>
+            <pubDate>Mon, 19 Dec 2016 20:11:35 -0200</pubDate>
+            <ns0:duration>00:17:45</ns0:duration>
+            <description>A show devoted to the topic of Delivering Value Continuously, a passage about Continuous Deployment from the book, The Lean Startup (by Eric Ries) and several answers to questions about Delivering Value Continuously.</description>
+        </item>
+
+        <item>
+            <title>Networks Not Hierarchies Who Sets Team Priorities Hardest Principle to Adopt</title>
+            <ns0:author>Joshua Kerievsky</ns0:author>
+            <author>joshua@industriallogic.com (Joshua Kerievsky)</author>
+
+            <ns0:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
+            <enclosure length="20953359" type="audio/mp3" url="http://www.modernagile.org/podcast/ModernAgileShow%203%20%20Networks%20Not%20Hierarchies%20Who%20Sets%20Team%20Priorities%20Hardest%20Principle%20to%20Adopt.mp3" />
+            <link>https://www.youtube.com/watch?v=zAkjoyDbhhM</link>
+            <guid isPermaLink="false">790be9550ec5e1912a9161d5b1e7b2197f4a3228</guid>
+            <pubDate>Mon, 19 Dec 2016 20:09:19 -0200</pubDate>
+            <ns0:duration>00:14:33</ns0:duration>
+            <description>A book passage from Tom DeMarco about teams as Networks not Hierarchies, a white board discussion about who sets priorities on teams, answering a question about the hardest Modern Agile principle to adopt.</description>
+        </item>
+
+        <item>
+            <title>Thomas Edison Story Feature Fake Is MA Old or New</title>
+            <ns0:author>Joshua Kerievsky</ns0:author>
+            <author>joshua@industriallogic.com (Joshua Kerievsky)</author>
+
+            <ns0:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
+            <enclosure length="19777458" type="audio/mp3" url="http://www.modernagile.org/podcast/ModernAgileShow%202%20%20Thomas%20Edison%20Story%20Feature%20Fake%20Is%20MA%20Old%20or%20New.mp3" />
+            <guid isPermaLink="false">e6f36aa0b561fed5369e32bc2e21a1c696f989c1</guid>
+            <link>https://www.youtube.com/watch?v=V87D_BVypcQ</link>
+            <pubDate>Mon, 19 Dec 2016 20:02:25 -0200</pubDate>
+            <ns0:duration>00:13:44</ns0:duration>
+            <description>Story of an early failure by Thomas Edison and what he learned from it. Explanation of a Feature Fake and how it helps you remain capital efficient and avoid building features that not enough people need. Answering a question about whether Modern Agile is back to basics or modern?</description>
+        </item>
+
+        <item>
+            <title>Show Intro Four Principles Tom DeMarco Story</title>
+            <ns0:author>Joshua Kerievsky</ns0:author>
+            <author>joshua@industriallogic.com (Joshua Kerievsky)</author>
+
+            <ns0:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
+            <enclosure length="23746385" type="audio/mp3" url="http://www.modernagile.org/podcast/ModernAgileShow%201%20%20Show%20Intro%20Four%20Principles%20Tom%20DeMarco%20Story.mp3" />
+            <link>https://www.youtube.com/watch?v=NGz69OVmmOA</link>
+            <guid isPermaLink="false">197c40dd40e1db0a19c23428a7c1801f86d4e8bb</guid>
+            <pubDate>Mon, 19 Dec 2016 19:55:14 -0200</pubDate>
+            <ns0:duration>00:12:22</ns0:duration>
+            <description>Episode #1 Why Modern Agile? A brief guide to Modern Agile's four principles. Who is Joshua Kerievsky? A "Make People Awesome" story from Tom DeMarco's classic book, Slack.</description>
+        </item>
+
+    </channel>
+</rss>
