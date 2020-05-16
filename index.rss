@@ -14,7 +14,7 @@
             <itunes:name>Joshua Kerievsky</itunes:name>
             <itunes:email>joshua@industriallogic.com</itunes:email>
         </itunes:owner>
-        <atom:link href="http://modernagile.github.io/podcast" rel="self" type="application/rss+xml" />
+        <atom:link href="http://modernagile.org/podcast" rel="self" type="application/rss+xml" />
 
         <image>
             <url>http://www.modernagile.org/podcast/cover_144.jpg</url>
