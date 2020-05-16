@@ -25,6 +25,19 @@
         <itunes:image href="http://www.modernagile.org/podcast/cover_1400.jpg"/>
 
         <item>
+            <title>Interview with Esther Derby</title>
+            <link>https://www.youtube.com/watch?v=dCx5OEyQ--M</link>
+            <author>joshua@industriallogic.com (Joshua Kerievsky)</author>
+            <pubDate>Fri, 15 May 2020 10:48:32 -0500</pubDate>
+            <guid isPermaLink="false">7f766570e5cd4c619d10dc352ba6bbdc</guid>
+            <enclosure url="http://www.modernagile.org/podcast/Modern_Agile_Show_45_Esther_Derby.mp3" length="21712075" type="audio/mp3"/>
+            <itunes:author>joshua@industriallogic.com</itunes:author>
+            <itunes:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
+            <itunes:duration>00:26:54</itunes:duration>
+            <description>Episode 45 of the Modern Agile Show features an interview with Esther Derby, CEO of Esther Derby Associates, and the author of Behind Closed Doors, Agile Retrospectives and 7 Rules for Positive, Productive Change. Esther explains how well-intentioned management often achieves superficial change by rolling out packaged processes on top of existing organizational structures and management policies. She describes how micro changes offer a better starting point. Esther asks her clients questions that identify what exactly is contributing to negative patterns, and in turn exposes the system to the system. Her questions inspire people to naturally begin making improvements, a “change by attraction” approach, in which people are attracted to change rather than being forced into it. She points out how change rarely happens when people feel "downstatused" or defensive or when change is demanded via coercive or positional power. Micro-shifts are an alternative to “extreme disruption” and while some may think they are slow, Esther finds that such changes are the most effective way to achieve big results.</description>
+        </item>
+
+        <item>
             <title>Interview with Jeff "Cheezy" Morgan</title>
             <link>https://www.youtube.com/watch?v=wpbVe8l3CXM</link>
             <author>joshua@industriallogic.com (Joshua Kerievsky)</author>
