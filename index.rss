@@ -21,6 +21,20 @@
       <link>http://www.modernagile.org/podcast</link>
     </image>
     <itunes:image href="http://www.modernagile.org/podcast/cover_1400.jpg"/>
+
+    <item>
+        <title>Interview with Stephen Parry</title>
+        <link>https://www.youtube.com/watch?v=7UiJ7XElyYg</link>
+        <author>joshua@industriallogic.com (Joshua Kerievsky)</author>
+        <pubDate>Fri, 19 Jun 2020 16:29:05 -0500</pubDate>
+        <guid isPermaLink="false">22a00f65bfdc4108939cf4aa9deef9f3</guid>
+        <enclosure url="http://www.modernagile.org/podcast/Modern_Agile_Show_46_Interview_with_Stephen_Parry.mp3" length="21668792" type="audio/mp3"/>
+        <itunes:author>joshua@industriallogic.com</itunes:author>
+        <itunes:image href="http://www.modernagile.org/podcast/cover_1400.jpg" />
+        <itunes:duration>00:30:82</itunes:duration>
+        <description>Episode 46 of the Modern Agile Show features an interview with Stephen Parry (@LeanVoices), Managing Director of The Sense and Adapt Academy and author of the pivotal book, Sense and Respond (2005). Based out of the UK, Stephen has decades of experience helping organizations actually transform (go beyond an existing form) rather than just improve. He tells an amazing story about how he helped Fujitsu win a 10-year contract with a major airline, beating huge competitors, by focusing on business value rather than what the customer requested. Stephen describes how many organizations get stuck focusing on improving and fail to fundamentally change the organization by changing how the organization changes. He describes what Sense and Respond really means and why he changed the name to Sense and Adapt. Learn more about Stephen at https://www.lloydparry.com and http://leanvoices.com.</description>
+    </item>
+        
     <item>
       <title>Interview with Esther Derby</title>
       <link>https://www.youtube.com/watch?v=dCx5OEyQ--M</link>
